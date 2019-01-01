@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on LeedsDevops</title>
+    <link>http://www.leedsdevops.org.uk/tags/resources/</link>
+    <description>Recent content in Resources on LeedsDevops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Sat, 15 Feb 2014 19:33:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.leedsdevops.org.uk/tags/resources/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resources for the Agile Yorkshire Group</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-02-15-resources-for-the-agile-yorkshire-group/</link>
+      <pubDate>Sat, 15 Feb 2014 19:33:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-02-15-resources-for-the-agile-yorkshire-group/</guid>
+      <description>We presented a &#34;DevOps 101&#34; talk at Agile Yorkshire last week. One of the slides listed resources for learning more about DevOps and I promised to create a&amp;nbsp;page on our site listing them in detail. Here it is....Podcasts
+ Devops Cafe - http://devopscafe.org/ - Original DevOps podcast, still current and relevant, older shows include discussions with all the names that matter in DevOps Foodfight Show - http://foodfightshow.org/ chef focused discussion on devops Arrested DevOps - http://www.</description>
+    </item>
+    
+  </channel>
+</rss>

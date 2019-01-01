@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yorkshire on LeedsDevops</title>
+    <link>http://www.leedsdevops.org.uk/tags/yorkshire/</link>
+    <description>Recent content in Yorkshire on LeedsDevops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Sat, 15 Feb 2014 19:24:47 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.leedsdevops.org.uk/tags/yorkshire/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Agile Yorkshire Presentation 11/02/2014 - DevOps 101</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-02-15-agile-yorkshire-presentation-11-02-2014-devops-101/</link>
+      <pubDate>Sat, 15 Feb 2014 19:24:47 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-02-15-agile-yorkshire-presentation-11-02-2014-devops-101/</guid>
+      <description>Last week we presented a &#34;DevOps 101&#34; talk to the fine people over at Agile Yorkshire.
+http://www.agileyorkshire.org/event-announcements/11thfebsebroseandbadtestgoodtestandyburginwithadevops101
+We covered some of the &#34;classic&#34; definitions of DevOps from Adam Jacobs, John Willis and Damon Edwards, although the slightly sweary version from @lusis was perhaps the most well received.
+We discussed the history of the movement and the principles it builds upon from Systems Thinking, Therory of Constraints and Lean, including a detailed look at how those are applied to CAMS (Culture, Automation, Measurement and Sharing).</description>
+    </item>
+    
+  </channel>
+</rss>

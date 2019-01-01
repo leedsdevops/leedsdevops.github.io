@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on LeedsDevops</title>
+    <link>http://www.leedsdevops.org.uk/tags/</link>
+    <description>Recent content in Tags on LeedsDevops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Mon, 24 Nov 2014 20:17:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.leedsdevops.org.uk/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adelphi</title>
+      <link>http://www.leedsdevops.org.uk/tags/adelphi/</link>
+      <pubDate>Mon, 24 Nov 2014 20:17:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/adelphi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agile</title>
+      <link>http://www.leedsdevops.org.uk/tags/agile/</link>
+      <pubDate>Sat, 15 Feb 2014 19:24:47 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/agile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible</title>
+      <link>http://www.leedsdevops.org.uk/tags/ansible/</link>
+      <pubDate>Thu, 05 Apr 2018 15:39:13 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/ansible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure</title>
+      <link>http://www.leedsdevops.org.uk/tags/azure/</link>
+      <pubDate>Sun, 14 Oct 2018 18:31:32 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beerops</title>
+      <link>http://www.leedsdevops.org.uk/tags/beerops/</link>
+      <pubDate>Mon, 24 Nov 2014 20:17:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/beerops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Birthday</title>
+      <link>http://www.leedsdevops.org.uk/tags/birthday/</link>
+      <pubDate>Fri, 12 Sep 2014 06:40:34 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/birthday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chef</title>
+      <link>http://www.leedsdevops.org.uk/tags/chef/</link>
+      <pubDate>Mon, 09 Jan 2017 19:38:36 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/chef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chefconf</title>
+      <link>http://www.leedsdevops.org.uk/tags/chefconf/</link>
+      <pubDate>Wed, 16 Jul 2014 20:29:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/chefconf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud</title>
+      <link>http://www.leedsdevops.org.uk/tags/cloud/</link>
+      <pubDate>Tue, 01 May 2018 19:59:46 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Computing</title>
+      <link>http://www.leedsdevops.org.uk/tags/cloud-computing/</link>
+      <pubDate>Mon, 05 Sep 2016 11:40:51 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/cloud-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code of Conduct</title>
+      <link>http://www.leedsdevops.org.uk/tags/code-of-conduct/</link>
+      <pubDate>Sat, 09 Sep 2017 09:54:07 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/code-of-conduct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Containers</title>
+      <link>http://www.leedsdevops.org.uk/tags/containers/</link>
+      <pubDate>Mon, 31 Oct 2016 20:36:46 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/containers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contino</title>
+      <link>http://www.leedsdevops.org.uk/tags/contino/</link>
+      <pubDate>Wed, 10 Sep 2014 11:33:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/contino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Culture</title>
+      <link>http://www.leedsdevops.org.uk/tags/culture/</link>
+      <pubDate>Mon, 23 Sep 2013 21:04:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/culture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Databses</title>
+      <link>http://www.leedsdevops.org.uk/tags/databses/</link>
+      <pubDate>Mon, 09 Jan 2017 19:38:36 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/databses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devops</title>
+      <link>http://www.leedsdevops.org.uk/tags/devops/</link>
+      <pubDate>Mon, 19 Nov 2018 20:38:28 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devopsdays</title>
+      <link>http://www.leedsdevops.org.uk/tags/devopsdays/</link>
+      <pubDate>Tue, 09 Jun 2015 20:29:21 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/devopsdays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital</title>
+      <link>http://www.leedsdevops.org.uk/tags/digital/</link>
+      <pubDate>Thu, 23 Mar 2017 20:52:14 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/digital/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>http://www.leedsdevops.org.uk/tags/docker/</link>
+      <pubDate>Sun, 11 Feb 2018 19:46:17 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drupal</title>
+      <link>http://www.leedsdevops.org.uk/tags/drupal/</link>
+      <pubDate>Tue, 11 Mar 2014 08:03:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/drupal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elasticsearch</title>
+      <link>http://www.leedsdevops.org.uk/tags/elasticsearch/</link>
+      <pubDate>Mon, 29 Sep 2014 19:11:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/elasticsearch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event</title>
+      <link>http://www.leedsdevops.org.uk/tags/event/</link>
+      <pubDate>Sun, 04 Oct 2015 21:29:53 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Festival</title>
+      <link>http://www.leedsdevops.org.uk/tags/festival/</link>
+      <pubDate>Thu, 23 Mar 2017 20:52:14 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/festival/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>http://www.leedsdevops.org.uk/tags/git/</link>
+      <pubDate>Sun, 02 Oct 2016 19:22:12 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google</title>
+      <link>http://www.leedsdevops.org.uk/tags/google/</link>
+      <pubDate>Tue, 01 May 2018 19:59:46 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hashicorp</title>
+      <link>http://www.leedsdevops.org.uk/tags/hashicorp/</link>
+      <pubDate>Mon, 19 Nov 2018 20:38:28 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/hashicorp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugops</title>
+      <link>http://www.leedsdevops.org.uk/tags/hugops/</link>
+      <pubDate>Sun, 12 Nov 2017 14:45:06 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/hugops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humanops</title>
+      <link>http://www.leedsdevops.org.uk/tags/humanops/</link>
+      <pubDate>Sun, 12 Nov 2017 14:45:06 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/humanops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kafka</title>
+      <link>http://www.leedsdevops.org.uk/tags/kafka/</link>
+      <pubDate>Thu, 05 Apr 2018 15:39:13 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/kafka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kibana</title>
+      <link>http://www.leedsdevops.org.uk/tags/kibana/</link>
+      <pubDate>Mon, 29 Sep 2014 19:11:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/kibana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ksql</title>
+      <link>http://www.leedsdevops.org.uk/tags/ksql/</link>
+      <pubDate>Thu, 05 Apr 2018 15:39:13 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/ksql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>http://www.leedsdevops.org.uk/tags/kubernetes/</link>
+      <pubDate>Sun, 14 Oct 2018 18:31:32 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leeds</title>
+      <link>http://www.leedsdevops.org.uk/tags/leeds/</link>
+      <pubDate>Mon, 19 Nov 2018 20:38:28 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/leeds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leeds Devops</title>
+      <link>http://www.leedsdevops.org.uk/tags/leeds-devops/</link>
+      <pubDate>Thu, 12 Feb 2015 19:58:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/leeds-devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leeds Devops Help</title>
+      <link>http://www.leedsdevops.org.uk/tags/leeds-devops-help/</link>
+      <pubDate>Fri, 13 Sep 2013 09:20:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/leeds-devops-help/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logging</title>
+      <link>http://www.leedsdevops.org.uk/tags/logging/</link>
+      <pubDate>Sun, 18 Jun 2017 19:13:14 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/logging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logstash</title>
+      <link>http://www.leedsdevops.org.uk/tags/logstash/</link>
+      <pubDate>Mon, 29 Sep 2014 19:11:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/logstash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meetup</title>
+      <link>http://www.leedsdevops.org.uk/tags/meetup/</link>
+      <pubDate>Tue, 03 Nov 2015 15:43:02 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mesos</title>
+      <link>http://www.leedsdevops.org.uk/tags/mesos/</link>
+      <pubDate>Mon, 16 Oct 2017 19:06:23 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/mesos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mesosphere</title>
+      <link>http://www.leedsdevops.org.uk/tags/mesosphere/</link>
+      <pubDate>Mon, 16 Oct 2017 19:06:23 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/mesosphere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft</title>
+      <link>http://www.leedsdevops.org.uk/tags/microsoft/</link>
+      <pubDate>Mon, 31 Oct 2016 20:36:46 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/microsoft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring</title>
+      <link>http://www.leedsdevops.org.uk/tags/monitoring/</link>
+      <pubDate>Sun, 18 Jun 2017 19:13:14 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nagios</title>
+      <link>http://www.leedsdevops.org.uk/tags/nagios/</link>
+      <pubDate>Thu, 25 Jun 2015 11:15:13 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/nagios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanoservices</title>
+      <link>http://www.leedsdevops.org.uk/tags/nanoservices/</link>
+      <pubDate>Sat, 09 Sep 2017 10:01:54 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/nanoservices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nhs Digital</title>
+      <link>http://www.leedsdevops.org.uk/tags/nhs-digital/</link>
+      <pubDate>Wed, 04 May 2016 18:50:41 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/nhs-digital/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Odi</title>
+      <link>http://www.leedsdevops.org.uk/tags/odi/</link>
+      <pubDate>Sun, 26 Apr 2015 18:57:22 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/odi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paas</title>
+      <link>http://www.leedsdevops.org.uk/tags/paas/</link>
+      <pubDate>Mon, 05 Sep 2016 11:40:51 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/paas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pitchero</title>
+      <link>http://www.leedsdevops.org.uk/tags/pitchero/</link>
+      <pubDate>Mon, 31 Oct 2016 20:36:46 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/pitchero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Puppet</title>
+      <link>http://www.leedsdevops.org.uk/tags/puppet/</link>
+      <pubDate>Wed, 29 Oct 2014 17:46:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/puppet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redhat</title>
+      <link>http://www.leedsdevops.org.uk/tags/redhat/</link>
+      <pubDate>Thu, 05 Apr 2018 15:39:13 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/redhat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>http://www.leedsdevops.org.uk/tags/resources/</link>
+      <pubDate>Sat, 15 Feb 2014 19:33:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sage</title>
+      <link>http://www.leedsdevops.org.uk/tags/sage/</link>
+      <pubDate>Sat, 14 Dec 2013 21:33:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/sage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>http://www.leedsdevops.org.uk/tags/skills/</link>
+      <pubDate>Mon, 23 Sep 2013 21:04:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skybet</title>
+      <link>http://www.leedsdevops.org.uk/tags/skybet/</link>
+      <pubDate>Wed, 04 May 2016 18:50:41 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/skybet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speakers</title>
+      <link>http://www.leedsdevops.org.uk/tags/speakers/</link>
+      <pubDate>Sat, 15 Mar 2014 12:14:19 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/speakers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spine</title>
+      <link>http://www.leedsdevops.org.uk/tags/spine/</link>
+      <pubDate>Wed, 04 May 2016 18:50:41 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/spine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>http://www.leedsdevops.org.uk/tags/talks/</link>
+      <pubDate>Sat, 15 Mar 2014 12:14:19 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terraform</title>
+      <link>http://www.leedsdevops.org.uk/tags/terraform/</link>
+      <pubDate>Mon, 21 May 2018 19:22:57 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/terraform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>http://www.leedsdevops.org.uk/tags/tools/</link>
+      <pubDate>Mon, 23 Sep 2013 21:04:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubuntu</title>
+      <link>http://www.leedsdevops.org.uk/tags/ubuntu/</link>
+      <pubDate>Mon, 04 Apr 2016 19:24:26 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Values Stream Mapping</title>
+      <link>http://www.leedsdevops.org.uk/tags/values-stream-mapping/</link>
+      <pubDate>Sun, 12 Nov 2017 14:45:06 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/values-stream-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verism</title>
+      <link>http://www.leedsdevops.org.uk/tags/verism/</link>
+      <pubDate>Tue, 13 Mar 2018 21:01:11 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/verism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vsm</title>
+      <link>http://www.leedsdevops.org.uk/tags/vsm/</link>
+      <pubDate>Sun, 12 Nov 2017 14:45:06 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/vsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yorkshire</title>
+      <link>http://www.leedsdevops.org.uk/tags/yorkshire/</link>
+      <pubDate>Sat, 15 Feb 2014 19:24:47 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/yorkshire/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

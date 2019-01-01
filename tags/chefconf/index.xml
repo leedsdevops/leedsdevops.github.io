@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chefconf on LeedsDevops</title>
+    <link>http://www.leedsdevops.org.uk/tags/chefconf/</link>
+    <description>Recent content in Chefconf on LeedsDevops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Wed, 16 Jul 2014 20:29:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.leedsdevops.org.uk/tags/chefconf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meetup - Tuesday 12th August 2014 at The Salem Chapel in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-07-16-meetup-tuesday-12th-august-2014-at-the-salem-chapel-in-leeds/</link>
+      <pubDate>Wed, 16 Jul 2014 20:29:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-07-16-meetup-tuesday-12th-august-2014-at-the-salem-chapel-in-leeds/</guid>
+      <description>It may be a lazy summers day but we&amp;rsquo;ve pulled together a cracker of an evening for you. Our next Devops meetup will take place at 6:45pm on Tuesday 12th August thanks to the generosity of our friends AQL at the Salem Chapel.
+We&amp;rsquo;ve really done ourselves proud and got a couple of top notch speakers:
+Fresh from ChefConf Justin Arbuckle the VP EMEA &amp;amp; Chief Enterprise Architect Chef (formally Opscode) will be in attendance to talk about Accelerating the Enterprise Devops Journey (but don&amp;rsquo;t worry this will include an overview of Chef).</description>
+    </item>
+    
+  </channel>
+</rss>

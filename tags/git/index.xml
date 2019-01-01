@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on LeedsDevops</title>
+    <link>http://www.leedsdevops.org.uk/tags/git/</link>
+    <description>Recent content in Git on LeedsDevops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Sun, 02 Oct 2016 19:22:12 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.leedsdevops.org.uk/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meetup - Tuesday 11th October 2016 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2016-10-02-meetup-tuesday-11th-october-2016-at-the-odi-node-in-leeds/</link>
+      <pubDate>Sun, 02 Oct 2016 19:22:12 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2016-10-02-meetup-tuesday-11th-october-2016-at-the-odi-node-in-leeds/</guid>
+      <description>Do you like to party ? You do ? then join us on Tuesday 11th October at the ODI Node in Leeds to celebrate not only Ada Lovelace day but the 3rd birthday of Leeds Devops! Join us for:
+6:45 - 7:15 : Doors open, have a chat, make some new devops friends
+7:15 - 7:30 : Group updates/news/announcements
+7:30 - 8:00 : Design Patterns for Git - Lorna Mitchell</description>
+    </item>
+    
+  </channel>
+</rss>

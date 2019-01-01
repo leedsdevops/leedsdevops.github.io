@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on LeedsDevops</title>
+    <link>http://www.leedsdevops.org.uk/categories/</link>
+    <description>Recent content in Categories on LeedsDevops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Mon, 23 Sep 2013 21:04:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.leedsdevops.org.uk/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://www.leedsdevops.org.uk/categories/about/</link>
+      <pubDate>Mon, 23 Sep 2013 21:04:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/categories/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Birthdays</title>
+      <link>http://www.leedsdevops.org.uk/categories/birthdays/</link>
+      <pubDate>Fri, 12 Sep 2014 06:40:34 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/categories/birthdays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code of Conduct</title>
+      <link>http://www.leedsdevops.org.uk/categories/code-of-conduct/</link>
+      <pubDate>Sat, 09 Sep 2017 09:54:07 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/categories/code-of-conduct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meetups</title>
+      <link>http://www.leedsdevops.org.uk/categories/meetups/</link>
+      <pubDate>Mon, 19 Nov 2018 20:38:28 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/categories/meetups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nagios</title>
+      <link>http://www.leedsdevops.org.uk/categories/nagios/</link>
+      <pubDate>Thu, 25 Jun 2015 11:15:13 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/categories/nagios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pictures</title>
+      <link>http://www.leedsdevops.org.uk/categories/pictures/</link>
+      <pubDate>Sun, 17 Aug 2014 11:28:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/categories/pictures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sponsors</title>
+      <link>http://www.leedsdevops.org.uk/categories/sponsors/</link>
+      <pubDate>Wed, 10 Sep 2014 11:33:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/categories/sponsors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training</title>
+      <link>http://www.leedsdevops.org.uk/categories/training/</link>
+      <pubDate>Mon, 11 Aug 2014 09:50:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/categories/training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Votes</title>
+      <link>http://www.leedsdevops.org.uk/categories/votes/</link>
+      <pubDate>Tue, 09 Jun 2015 20:43:59 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/categories/votes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Humanops on LeedsDevops</title>
+    <link>http://www.leedsdevops.org.uk/tags/humanops/</link>
+    <description>Recent content in Humanops on LeedsDevops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Sun, 12 Nov 2017 14:45:06 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.leedsdevops.org.uk/tags/humanops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meetup - Tuesday 28th November 2017 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2017-11-12-meetup-tuesday-28th-november-2017-at-the-odi-node-in-leeds/</link>
+      <pubDate>Sun, 12 Nov 2017 14:45:06 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2017-11-12-meetup-tuesday-28th-november-2017-at-the-odi-node-in-leeds/</guid>
+      <description>The final Leeds Devops of 2017 is upon us and it&#39;s set to be a cracker. Once again we we&#39;ve pulled together a fantastic line up:
+6:45 - 7:15 : Doors open, have a chat, make some new devops friends7:15 - 7:20 : Group updates/news/announcements7:20 - 8:05 : Maximum Impact Value Stream Mapping - Marcus Robinson8:05 - 8:20 : Intermission8:20 - 9:00 : Resilient Systems Require Resilient People - Hannah Foxwell9:00 - late : Decamp to the WardrobeWe are delighted that Microsoft’s Marcus Robinson will be joining us again, Marcus wowed the crowd last year with his Azure demo packed talk, but this time he returns to talk about something very different.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Containers on LeedsDevops</title>
+    <link>http://www.leedsdevops.org.uk/tags/containers/</link>
+    <description>Recent content in Containers on LeedsDevops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Mon, 31 Oct 2016 20:36:46 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.leedsdevops.org.uk/tags/containers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meetup - Tuesday 15th November 2016 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2016-10-31-meetup-tuesday-15th-november-2016-at-the-odi-node-in-leeds/</link>
+      <pubDate>Mon, 31 Oct 2016 20:36:46 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2016-10-31-meetup-tuesday-15th-november-2016-at-the-odi-node-in-leeds/</guid>
+      <description>It&#39;s the final devops get together of 2016 at the ODI Node in Leeds on Tuesday 15th November. Once again we&#39;ve pulled together a wonderful programme of talks for you:
+6:45 - 7:15 : Doors open, have a chat, make some new devops friends
+7:15 - 7:30 : Group updates/news/announcements
+7:30 - 8:00 : Increasing agility through DevOps - Jon Milsom of Pitchero
+8:00 - 8:15 : Intermission
+8:15 - 9:00 : Containers with Microsoft and Docker - Marcus Robinson of Microsoft</description>
+    </item>
+    
+  </channel>
+</rss>

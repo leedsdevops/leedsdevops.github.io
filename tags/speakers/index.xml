@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speakers on LeedsDevops</title>
+    <link>http://www.leedsdevops.org.uk/tags/speakers/</link>
+    <description>Recent content in Speakers on LeedsDevops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Sat, 15 Mar 2014 12:14:19 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.leedsdevops.org.uk/tags/speakers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Call for speakers - April meetup</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-03-15-call-for-speakers-april-meetup/</link>
+      <pubDate>Sat, 15 Mar 2014 12:14:19 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-03-15-call-for-speakers-april-meetup/</guid>
+      <description>We&#39;re finalising the plans for the April meetup and are looking for speakers, if you&#39;d like to share you thoughts and experiences with a crowd of over 30 like minded DevOps fans, then drop us a line.
+We&#39;re looking for speakers on... Tools - come and tell us about your tool chain and how that fits into Devops practices. CAMS - any tales of how a team has changed to using Devops methods and the highs and lows that brings.</description>
+    </item>
+    
+  </channel>
+</rss>

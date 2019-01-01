@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mesos on LeedsDevops</title>
+    <link>http://www.leedsdevops.org.uk/tags/mesos/</link>
+    <description>Recent content in Mesos on LeedsDevops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Mon, 16 Oct 2017 19:06:23 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.leedsdevops.org.uk/tags/mesos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meetup - Tuesday 31st October 2017 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2017-10-16-meetup-tuesday-31st-october-2017-at-the-odi-node-in-leeds/</link>
+      <pubDate>Mon, 16 Oct 2017 19:06:23 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2017-10-16-meetup-tuesday-31st-october-2017-at-the-odi-node-in-leeds/</guid>
+      <description>It&#39;s time for our 4th anniversary bash at the ODI Node in Leeds for an evening of spooktacular devops talks and cackling:
+6:45 - 7:15 : Doors open, have a chat, make some new devops friends
+7:15 - 7:20 : Group updates/news/announcements
+7:20 - 8:05 : Rightsizing for the Cloud - Bernard Jauregui
+8:05 - 8:20 : Intermission
+8:20 - 9:00 : Mesosphere 101 - Matt Jarvis
+9:00 - late : Decamp to the Wardrobe</description>
+    </item>
+    
+  </channel>
+</rss>

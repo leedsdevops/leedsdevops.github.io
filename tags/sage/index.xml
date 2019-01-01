@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sage on LeedsDevops</title>
+    <link>http://www.leedsdevops.org.uk/tags/sage/</link>
+    <description>Recent content in Sage on LeedsDevops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Sat, 14 Dec 2013 21:33:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.leedsdevops.org.uk/tags/sage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meetup - Tuesday 14th January 2014 at The Central Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2013-12-14-meetup-tuesday-14th-january-2014-at-the-central-leeds/</link>
+      <pubDate>Sat, 14 Dec 2013 21:33:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2013-12-14-meetup-tuesday-14th-january-2014-at-the-central-leeds/</guid>
+      <description>After the roaring success of the second meet up we thought we&#39;d do it all again. But before the details, we said it on twitter but we&#39;ll say it again - THANK YOU to...
+ Andy Burgin from MadeByPi for the DevopsDays presentation. John Denholm from SkyBet for the insight into how DevOps has has been implemented to deliver business value. SkyBet for &#34;Tab50&#34; - big thank you for the beers.</description>
+    </item>
+    
+  </channel>
+</rss>

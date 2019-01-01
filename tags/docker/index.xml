@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on LeedsDevops</title>
+    <link>http://www.leedsdevops.org.uk/tags/docker/</link>
+    <description>Recent content in Docker on LeedsDevops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Sun, 11 Feb 2018 19:46:17 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.leedsdevops.org.uk/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meetup - Tuesday 27th February 2018 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2018-02-11-meetup-tuesday-27th-february-2018-at-the-odi-node-in-leeds/</link>
+      <pubDate>Sun, 11 Feb 2018 19:46:17 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2018-02-11-meetup-tuesday-27th-february-2018-at-the-odi-node-in-leeds/</guid>
+      <description>Happy new year! it’s time for the first devops get together of 2018 at the ODI Node in Leeds on Tuesday 27th February. We have a fantastic duo of talks for you:
+6:45 - 7:15 : Doors open, have a chat, make some new devops friends
+7:15 - 7:25 : Group updates/news/announcements
+7:25 - 8:05 : Building Pipelines with Kafka from Scratch - Ben Abramson and Robert Knowles of William Hill</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 15th November 2016 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2016-10-31-meetup-tuesday-15th-november-2016-at-the-odi-node-in-leeds/</link>
+      <pubDate>Mon, 31 Oct 2016 20:36:46 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2016-10-31-meetup-tuesday-15th-november-2016-at-the-odi-node-in-leeds/</guid>
+      <description>It&#39;s the final devops get together of 2016 at the ODI Node in Leeds on Tuesday 15th November. Once again we&#39;ve pulled together a wonderful programme of talks for you:
+6:45 - 7:15 : Doors open, have a chat, make some new devops friends
+7:15 - 7:30 : Group updates/news/announcements
+7:30 - 8:00 : Increasing agility through DevOps - Jon Milsom of Pitchero
+8:00 - 8:15 : Intermission
+8:15 - 9:00 : Containers with Microsoft and Docker - Marcus Robinson of Microsoft</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 14th October 2014 at The Adelphi in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-09-29-meetup-tuesday-14th-october-2014-at-the-adelphi-in-leeds/</link>
+      <pubDate>Mon, 29 Sep 2014 19:11:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-09-29-meetup-tuesday-14th-october-2014-at-the-adelphi-in-leeds/</guid>
+      <description>Ladies and Gentlemen, the 14th October is not only the date of our next meetup, but is exactly one year to the day since we had our Inaugural meetup to discuss if the group was worth forming. It was a small affair with about 6 of us upstairs at the Brewery Tap (infact we shared the room with Leeds Alopicia society separated by only a curtain). There was a general consensus that the group had a future, we then drank beer, and talked about devops, file systems and quadcopters, the rest is history.</description>
+    </item>
+    
+  </channel>
+</rss>

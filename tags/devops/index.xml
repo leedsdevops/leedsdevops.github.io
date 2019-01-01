@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devops on LeedsDevops</title>
+    <link>http://www.leedsdevops.org.uk/tags/devops/</link>
+    <description>Recent content in Devops on LeedsDevops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Mon, 19 Nov 2018 20:38:28 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.leedsdevops.org.uk/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meetup - Thursday 6th December 2018 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2018-11-19-meetup-thursday-6th-december-2018-at-the-odi-node-in-leeds/</link>
+      <pubDate>Mon, 19 Nov 2018 20:38:28 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2018-11-19-meetup-thursday-6th-december-2018-at-the-odi-node-in-leeds/</guid>
+      <description>We&#39;re going to see the new year out in style at The ODI Node in Leeds on Thursday 6th December 2018:
+6:45 - 7:15 : Doors open, have a chat, make some new devops friends
+7:15 - 7:25 : Group updates/news/announcements
+7:25 - 8:05 : DevTest Microsoft stack environments.
+8:05 - 8:20 : Intermission
+8:20 - 9:00 : Terraform 0.12 guided tour
+Our first speaker is Sam Williams, Sam has been in the IT industry for nearly 15 years.</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 5th June 2018 at Platform in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2018-05-21-meetup-tuesday-5th-june-2018-at-platform-in-leeds/</link>
+      <pubDate>Mon, 21 May 2018 19:22:57 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2018-05-21-meetup-tuesday-5th-june-2018-at-platform-in-leeds/</guid>
+      <description>With just over 200 shopping days until Christmas it must be time for the June devops meetup at Platform in Leeds on Tuesday 5th June 2018. Yet again we have a bumper line up for you:
+6:45 - 7:15 : Doors open, have a chat, make some new devops friends
+7:15 - 7:25 : Group updates/news/announcements - Findmypast
+7:25 - 8:05 : True North Operations
+8:05 - 8:20 : Intermission</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 15th May 2018 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2018-05-01-meetup-tuesday-15th-may-2018-at-the-odi-node-in-leeds/</link>
+      <pubDate>Tue, 01 May 2018 19:59:46 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2018-05-01-meetup-tuesday-15th-may-2018-at-the-odi-node-in-leeds/</guid>
+      <description>In the words of Thomas Dekker, it&#39;s the Merry Month of May, which means it&#39;s time for another devops meetup at the ODI Node in Leeds on Tuesday 15th May. We bring you a terrific lineup :
+6:45 - 7:15 : Doors open, have a chat, make some new devops friends
+7:15 - 7:25 : Group updates/news/announcements
+7:25 - 8:05 : Introduction to Google Cloud Platform
+8:05 - 8:20 : Intermission</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 17th April 2018 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2018-04-05-meetup-tuesday-17th-april-2018-at-the-odi-node-in-leeds/</link>
+      <pubDate>Thu, 05 Apr 2018 15:39:13 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2018-04-05-meetup-tuesday-17th-april-2018-at-the-odi-node-in-leeds/</guid>
+      <description>It’s time for another devops meetup at the ODI Node in Leeds on Tuesday 17th April. The evening will be:
+6:45 - 7:15 : Doors open, have a chat, make some new devops friends
+7:15 - 7:25 : Group updates/news/announcements
+7:25 - 8:05 : Look Ma, no Code! Apache Kafka and KSQL
+8:05 - 8:20 : Intermission
+8:20 - 9:00 : Ansible Enterprise Grade
+9:00 - late : Decamp to the Wardrobe</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 27th March 2018 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2018-03-13-meetup-tuesday-27th-march-2018-at-the-odi-node-in-leeds/</link>
+      <pubDate>Tue, 13 Mar 2018 21:01:11 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2018-03-13-meetup-tuesday-27th-march-2018-at-the-odi-node-in-leeds/</guid>
+      <description>Spring is in the air and it’s time for a devops meetup at the ODI Node in Leeds on Tuesday 27th March. We bring you an couple of brilliant talks:
+6:45 - 7:15 : Doors open, have a chat, make some new devops friends
+7:15 - 7:25 : Group updates/news/announcements
+7:25 - 8:05 : VeriSM - making sense of digital transformation - Claire Agutter
+8:05 - 8:20 : Intermission
+8:20 - 9:00 : Questions you should ask at your &#34;</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 28th November 2017 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2017-11-12-meetup-tuesday-28th-november-2017-at-the-odi-node-in-leeds/</link>
+      <pubDate>Sun, 12 Nov 2017 14:45:06 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2017-11-12-meetup-tuesday-28th-november-2017-at-the-odi-node-in-leeds/</guid>
+      <description>The final Leeds Devops of 2017 is upon us and it&#39;s set to be a cracker. Once again we we&#39;ve pulled together a fantastic line up:
+6:45 - 7:15 : Doors open, have a chat, make some new devops friends7:15 - 7:20 : Group updates/news/announcements7:20 - 8:05 : Maximum Impact Value Stream Mapping - Marcus Robinson8:05 - 8:20 : Intermission8:20 - 9:00 : Resilient Systems Require Resilient People - Hannah Foxwell9:00 - late : Decamp to the WardrobeWe are delighted that Microsoft’s Marcus Robinson will be joining us again, Marcus wowed the crowd last year with his Azure demo packed talk, but this time he returns to talk about something very different.</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 31st October 2017 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2017-10-16-meetup-tuesday-31st-october-2017-at-the-odi-node-in-leeds/</link>
+      <pubDate>Mon, 16 Oct 2017 19:06:23 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2017-10-16-meetup-tuesday-31st-october-2017-at-the-odi-node-in-leeds/</guid>
+      <description>It&#39;s time for our 4th anniversary bash at the ODI Node in Leeds for an evening of spooktacular devops talks and cackling:
+6:45 - 7:15 : Doors open, have a chat, make some new devops friends
+7:15 - 7:20 : Group updates/news/announcements
+7:20 - 8:05 : Rightsizing for the Cloud - Bernard Jauregui
+8:05 - 8:20 : Intermission
+8:20 - 9:00 : Mesosphere 101 - Matt Jarvis
+9:00 - late : Decamp to the Wardrobe</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 26th September 2017 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2017-09-09-meetup-tuesday-26th-september-2017-at-the-odi-node-in-leeds/</link>
+      <pubDate>Sat, 09 Sep 2017 10:01:54 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2017-09-09-meetup-tuesday-26th-september-2017-at-the-odi-node-in-leeds/</guid>
+      <description>After our summer break we return on Tuesday 26th September to the ODI Node in Leeds for an evening of devops talks and chatter:
+6:45 - 7:15 : Doors open, have a chat, make some new devops friends
+7:15 - 7:20 : Group updates/news/announcements
+7:20 - 8:05 : Introduction to Kubernetes Pod and Service Networking - Bryan Boreham
+8:05 - 8:20 : Intermission
+8:20 - 9:00 : Watch out! The nanoservices are coming - Matthew Clark</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 27th June 2017 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2017-06-18-meetup-tuesday-27th-june-2017-at-the-odi-node-in-leeds/</link>
+      <pubDate>Sun, 18 Jun 2017 19:13:14 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2017-06-18-meetup-tuesday-27th-june-2017-at-the-odi-node-in-leeds/</guid>
+      <description>It&#39;s time for the final Devops meetup before our summer break, we&#39;ll meet on Tuesday 27th June at the ODI Node in Leeds. This time we are going to have 3 great talks:
+6:45 - 7:15 : Doors open, have a chat, make some new devops friends
+7:15 - 7:20 : Group updates/news/announcements
+7:20 - 7:45 : What is Devops ? - Andy Burgin
+7:45 - 8:05 : Determining Your Application&#39;s Heartbeat Through Monitoring and Logging - Gwen Diagram</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 23rd May 2017 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2017-05-09-meetup-tuesday-23rd-may-2017-at-the-odi-node-in-leeds/</link>
+      <pubDate>Tue, 09 May 2017 18:35:36 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2017-05-09-meetup-tuesday-23rd-may-2017-at-the-odi-node-in-leeds/</guid>
+      <description>We welcome two of our favorite speakers back to LeedsDevops on Tuesday 23rd May at the ODI Node in Leeds. Join us for an evening of top notch talks and devops chit chat:
+6:45 - 7:15 : Doors open, have a chat, make some new devops friends
+7:15 - 7:20 : Group updates/news/announcements
+7:20 - 8:05 : Standardising Microservices - Simon Davy
+8:05 - 8:20 : Intermission
+8:20 - 9:00 : Design your Teams for Modern Software Systems - Matthew Skelton</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 21st March 2017 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2017-03-14-meetup-tuesday-21st-march-2017-at-the-odi-node-in-leeds/</link>
+      <pubDate>Tue, 14 Mar 2017 21:25:48 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2017-03-14-meetup-tuesday-21st-march-2017-at-the-odi-node-in-leeds/</guid>
+      <description>It&#39;s time for another evening of Devops discussion at the ODI Node in Leeds on Tuesday 21st March. We&#39;ll be talking about how to get people to use your service and a terrific case study about a highly resilient multi-data centre system
+6:45 - 7:15 : Doors open, have a chat, make some new devops friends
+7:15 - 7:20 : Group updates/news/announcements
+7:20 - 8:05 : Service Marketing - Dr Neil Richardson</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 28th February 2017 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2017-02-14-meetup-tuesday-28th-february-2017-at-the-odi-node-in-leeds/</link>
+      <pubDate>Tue, 14 Feb 2017 21:42:08 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2017-02-14-meetup-tuesday-28th-february-2017-at-the-odi-node-in-leeds/</guid>
+      <description>We&#39;re back again for another evening of Devops chatter at the ODI Node in Leeds on Tuesday 28th February. We&#39;ll be considering the evolution of devops and asking the big question &#34;What&#39;s Devops do in 2022&#34;:
+6:45 - 7:15 : Doors open, have a chat, make some new devops friends 7:15 - 7:30 : Group updates/news/announcements 7:30 - 8:05 : Recording the UEFA 2016 Anthem Using Lambda - James Hall 8:05 - 8:20 : Intermission 8:20 - 9:00 : Devops Skills Panel - What&#39;s Devops do in 2022 9:00 - late : Decamp to the Wardrobe  It&#39;s almost 8 years since the first Devops Days event and our thinking on tools, tech and culture has transformed the way modern software is built, delivered and run.</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 11th October 2016 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2016-10-02-meetup-tuesday-11th-october-2016-at-the-odi-node-in-leeds/</link>
+      <pubDate>Sun, 02 Oct 2016 19:22:12 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2016-10-02-meetup-tuesday-11th-october-2016-at-the-odi-node-in-leeds/</guid>
+      <description>Do you like to party ? You do ? then join us on Tuesday 11th October at the ODI Node in Leeds to celebrate not only Ada Lovelace day but the 3rd birthday of Leeds Devops! Join us for:
+6:45 - 7:15 : Doors open, have a chat, make some new devops friends
+7:15 - 7:30 : Group updates/news/announcements
+7:30 - 8:00 : Design Patterns for Git - Lorna Mitchell</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Wednesday 21st September 2016 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2016-09-05-meetup-wednesday-21st-september-2016-at-the-odi-node-in-leeds/</link>
+      <pubDate>Mon, 05 Sep 2016 11:40:51 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2016-09-05-meetup-wednesday-21st-september-2016-at-the-odi-node-in-leeds/</guid>
+      <description>As the memories of summer sunshine begin to fade and there is an autumnal feel to the weather, it&#39;s must be time for another Devops meetup. Indeed it is, join us at The ODI Node in Leeds on Wednesday 21st September 2016 for a serving of Devops delicacies:
+6:45 - 7:15 : Doors open, have a chat, make some new devops friends7:15 - 7:30 : Group updates/news/announcements7:30 - 8:00 : DevOps meet SecOps - Tim Nash</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 21st June 2016 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2016-06-06-meetup-tuesday-21st-june-2016-at-the-odi-node-in-leeds/</link>
+      <pubDate>Mon, 06 Jun 2016 19:43:50 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2016-06-06-meetup-tuesday-21st-june-2016-at-the-odi-node-in-leeds/</guid>
+      <description>As the summer sun starts to shine on Leeds, we have time for just one more meetup before our summer holidays. Join us at The ODI Node in Leeds on Tuesday 21st June 2016 for some top notch Devops chat:
+6:45 - 7:15 : Grab a beer, have a natter.
+7:15 - 7:30 : Group updates/news/announcements
+7:30 - 8:00 : Have you heard of the 12 factors ? - Glen Mailer</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 26th April 2016 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2016-04-04-meetup-tuesday-26th-april-2016-at-the-odi-node-in-leeds/</link>
+      <pubDate>Mon, 04 Apr 2016 19:24:26 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2016-04-04-meetup-tuesday-26th-april-2016-at-the-odi-node-in-leeds/</guid>
+      <description>We&#39;re extremely pleased to be running our next Devops meetup as part of Leeds Digital Festival. To celebrate we will be meeting at The ODI Node in Leeds on Tuesday 26th April 2016 for an exciting evening of devops chat. Yet again we bring you a cracking line up: 6:45 - 7:15 : Grab a beer, have a natter.
+7:15 - 7:30 : Group updates/news/announcements
+7:30 - 8:00 : Simon Davy - Canonical</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Wednesday 2nd March 2016 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2016-02-15-meetup-wednesday-2nd-march-2016-at-the-odi-node-in-leeds/</link>
+      <pubDate>Mon, 15 Feb 2016 19:54:55 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2016-02-15-meetup-wednesday-2nd-march-2016-at-the-odi-node-in-leeds/</guid>
+      <description>We&#39;ve had our winter break and are all ready to get started with all things devops for 2016. Looks like it&#39;s going to be a very exciting year and we&#39;ve got some great stuff lined up. But of course top of the list is our next meetup which takes place on Wednesday 2nd March 2016 at The ODI Node in Leeds.
+6:45 - 7:15 : Grab a beer, have a natter.</description>
+    </item>
+    
+    <item>
+      <title>LeedsDevops Flickr Page - October 2015</title>
+      <link>http://www.leedsdevops.org.uk/post/2015-11-11-leedsdevops-flickr-page-october-2015/</link>
+      <pubDate>Wed, 11 Nov 2015 07:53:51 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2015-11-11-leedsdevops-flickr-page-october-2015/</guid>
+      <description>We owe a very large thanks to our friend Tom Rawcliffe for being our unofficial photographer at the October LeedsDevops Meetup and TechnologyUG event - if you were there take a look at our flickr page and you might see yourself in one of the snaps!</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 24th November 2015 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2015-11-03-meetup-tuesday-24th-november-2015-at-the-odi-node-in-leeds/</link>
+      <pubDate>Tue, 03 Nov 2015 15:43:02 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2015-11-03-meetup-tuesday-24th-november-2015-at-the-odi-node-in-leeds/</guid>
+      <description>Following the success of our October meetup and TechnloogyUG event we return to out spiritual home of the Leeds ODI node on Tuesday 24th November 2015 for the final Devops get together of the year…
+6:45 - 7:15 : Grab a beer, have a natter.7:15 - 7:30 : Group updates/news/announcements7:30 - 8:00 : Verifying deployments and testing infrastructure with conn-check - Wes Mason8:00 - 8:15 : Intermission8:15 - 9:00 : Re:invent + Tech Deepdive on Lambda and Containers - Ian Massingham9:00 - late : Decamp to the WardrobeIt&#39;s great to welcome back to LeedsDevops two of our favourite speakers and local tech gurus.</description>
+    </item>
+    
+    <item>
+      <title>Technology UG devops event - Thurs 22nd Oct 2015 at Leeds DoubleTree</title>
+      <link>http://www.leedsdevops.org.uk/post/2015-10-04-technology-ug-devops-event-thurs-22nd-oct-2015-at-leeds-doubletree/</link>
+      <pubDate>Sun, 04 Oct 2015 21:29:53 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2015-10-04-technology-ug-devops-event-thurs-22nd-oct-2015-at-leeds-doubletree/</guid>
+      <description>Ladies and gentlemen, we are delighted to announce we have teamed up with the folks over at Technology UG to bring a day of Devops talks to Leeds. Their event on on 22nd October 2015 will feature talks about storage, virtualisation, data centers and now Devops.
+We&#39;ve been asked to curate a devops track at the event and rather than being a &#34;LeedsDevops greatest hits&#34; we&#39;ve pulled together a fantastic line up, which in our opinion wouldn&#39;t look out of place at any international devops conference.</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Thursday 22nd October 2015 at Leeds DoubleTree by Hilton</title>
+      <link>http://www.leedsdevops.org.uk/post/2015-10-04-meetup-thursday-22nd-october-2015-at-leeds-doubletree-by-hilton/</link>
+      <pubDate>Sun, 04 Oct 2015 20:03:09 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2015-10-04-meetup-thursday-22nd-october-2015-at-leeds-doubletree-by-hilton/</guid>
+      <description>It&#39;s time to celebrate our second anniversary, this month we&#39;ll be at the DoubleTree by Hilton Hotel on Thursday 22nd October 2015. After the success of our &#34;Devoops&#34; panel earlier this year we decided to have another panel discussion, but this time about configuration management tools. 6:30 - 7:00 : Registration7:00 - 7:15 : Introduction/Welcome/Group updates7:15 - 7:30 : Introducing Code Club - Linda Broughton7:30 - 8:00 : Devops Teams - Matt Skelton8:00 - 8:15 : Intermission8:15 - 9:00 : The Configuration Management Shootout Panel9:00 - late : Decamp to The HopWe&#39;ll start the evening with a short talk from Linda Broughton on the fantastic work Code Club have been doing in schools to get kids into coding.</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 29th September 2015 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2015-08-31-meetup-tuesday-29th-september-2015-at-the-odi-node-in-leeds/</link>
+      <pubDate>Mon, 31 Aug 2015 19:14:42 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2015-08-31-meetup-tuesday-29th-september-2015-at-the-odi-node-in-leeds/</guid>
+      <description>After a well deserved summer break we&#39;re back at the Leeds ODI node on Tuesday 29th September 2015 for a cracker of a Devops evening...
+6:45 - 7:15 : Grab a beer, have a natter. 7:15 - 7:30 : Group updates/news/announcements 7:30 - 8:00 : Say Goodbye to Pet Projects - Tom Walton 8:00 - 8:15 : Intermission 8:15 - 9:00 : ChatOps with Hubot - Lorna Mitchell 9:00 - late : Decamp to the Wardrobe After much heranging and blatant pestering we&#39;ve at last persuaded Tom Walton from Infinity Works to come and talk about adopting DevOps culture with his talk &#34;</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 21st July 2015 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2015-06-29-meetup-tuesday-21st-july-2015-at-the-odi-node-in-leeds/</link>
+      <pubDate>Mon, 29 Jun 2015 20:03:38 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2015-06-29-meetup-tuesday-21st-july-2015-at-the-odi-node-in-leeds/</guid>
+      <description>We&#39;re again at the Leeds ODI node on Tuesday 21st July 2015 for a jam-packed night of Devops related shenanigans. The itinerary for the evening will be...
+6:45 - 7:15 : Grab a beer, have a natter.7:15 - 7:30 : Group updates/news/announcements7:30 - 8:00 : Service Discovery - Flash Talking8:00 - 8:15 : Intermission8:15 - 9:00 : Desired State Configuration - Black Marble9:00 - late : Decamp to the WardrobeWe really like a talk when it shares experiences, from how the team was setup to how a solution was delivered - including all the &#34;</description>
+    </item>
+    
+    <item>
+      <title>John Leach plays his Nagios Song at Leeds Devops meetup</title>
+      <link>http://www.leedsdevops.org.uk/post/2015-06-25-john-leach-plays-his-nagios-song-at-leeds-devops/</link>
+      <pubDate>Thu, 25 Jun 2015 11:15:13 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2015-06-25-john-leach-plays-his-nagios-song-at-leeds-devops/</guid>
+      <description>John Leach plays his &amp;ldquo;Nagios Song&amp;rdquo; at Leeds Devops meetup, 23rd June 2015 at Leeds ODI
+ </description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 23rd June 2015 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2015-06-09-meetup-tuesday-23rd-june-2015-at-the-odi-node-in-leeds/</link>
+      <pubDate>Tue, 09 Jun 2015 20:59:55 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2015-06-09-meetup-tuesday-23rd-june-2015-at-the-odi-node-in-leeds/</guid>
+      <description>Tuesday 23rd June 2015 sees us return to the Open Data Institute Leeds Node. As always we&amp;rsquo;ll have two great speakers&amp;hellip;
+6:45 - 7:15 : Grab a beer, have a natter.7:15 - 7:30 : Group updates/news/announcements7:30 - 8:00 : Security is Everyone&amp;rsquo;s Responsibility8:00 - 8:15 : Intermission8:15 - 9:00 : Docker: Please contain your excitement9:00 - late : Decamp to the WardrobeAt our last meetup we asked the attendees to vote on the openspace discussion topics from Devopsdays Paris, there was a clear interest in security, we are nothing if not accommodating and start the meetup with a cracking talk &amp;ldquo;Security is Everyone&amp;rsquo;s Responsibility&amp;rdquo; from James Hall of Parallax.</description>
+    </item>
+    
+    <item>
+      <title>The votes are in</title>
+      <link>http://www.leedsdevops.org.uk/post/2015-06-09-the-votes-are-in/</link>
+      <pubDate>Tue, 09 Jun 2015 20:43:59 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2015-06-09-the-votes-are-in/</guid>
+      <description>We took the Open Space voting from DevopsDays Paris and asked the meetup groups in Leeds and Manchester what they wanted to hear about ?
+
+So here are the results:
+
+&amp;nbsp;Topic&amp;nbsp;&amp;nbsp;Paris&amp;nbsp;&amp;nbsp;Leeds&amp;nbsp;&amp;nbsp;Manchester&amp;nbsp;&amp;nbsp;Monitoring as Code&amp;nbsp;&amp;nbsp;30&amp;nbsp;&amp;nbsp;5&amp;nbsp;&amp;nbsp;11&amp;nbsp; &amp;nbsp;Docker 101&amp;nbsp;&amp;nbsp;15&amp;nbsp;&amp;nbsp;5&amp;nbsp;&amp;nbsp;5&amp;nbsp; &amp;nbsp;How to explain to management why devops is awesome&amp;nbsp;&amp;nbsp;11&amp;nbsp;&amp;nbsp;1&amp;nbsp;&amp;nbsp;4&amp;nbsp; &amp;nbsp;Why? Ansible or Chef or Puppet (selection)&amp;nbsp;&amp;nbsp;16&amp;nbsp;&amp;nbsp;10&amp;nbsp;&amp;nbsp;4&amp;nbsp; &amp;nbsp;Code Review&amp;nbsp;&amp;nbsp;20&amp;nbsp;&amp;nbsp;3&amp;nbsp;&amp;nbsp;0&amp;nbsp; &amp;nbsp;Leaders expected attitude in a devops journey&amp;nbsp;&amp;nbsp;16&amp;nbsp;&amp;nbsp;0&amp;nbsp;&amp;nbsp;0&amp;nbsp; &amp;nbsp;How to make test automation reliable, reusable, robust and costless &amp;nbsp;&amp;nbsp;9&amp;nbsp;&amp;nbsp;4&amp;nbsp;&amp;nbsp;2&amp;nbsp; &amp;nbsp;Microservices a support nightmare ?</description>
+    </item>
+    
+    <item>
+      <title>We sent Andy Burgin to DevopsDays Paris to talk about Leeds Devops</title>
+      <link>http://www.leedsdevops.org.uk/post/2015-06-09-we-sent-andy-burgin-to-devopsdays-paris-to-talk/</link>
+      <pubDate>Tue, 09 Jun 2015 20:29:21 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2015-06-09-we-sent-andy-burgin-to-devopsdays-paris-to-talk/</guid>
+      <description>We sent Andy Burgin to DevopsDays Paris to talk about Leeds Devops, his talk starts at 11:00 mins in
+ </description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 19th May 2015 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2015-04-26-meetup-tuesday-19th-may-2015-at-the-odi-node-in-leeds/</link>
+      <pubDate>Sun, 26 Apr 2015 18:57:22 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2015-04-26-meetup-tuesday-19th-may-2015-at-the-odi-node-in-leeds/</guid>
+      <description>Tuesday 19th May 2015 sees us return to the Open Data Institute Leeds Node. After last times Panel format we&amp;rsquo;re back to to our usual running order of two fantastic speakers&amp;hellip;
+6:45 - 7:15 : Grab a beer, have a natter.7:15 - 7:30 : Group updates/news/announcements7:30 - 8:00 : Delivering microservices in the cloud8:00 - 8:15 : Intermission8:15 - 9:00 : DevopsDays Paris Recap9:00 - late : Decamp to the WardrobeAndrew Norman is a Principal Architect at BJSS and will speaking about &amp;ldquo;Delivering microservices in the cloud&amp;rdquo; - Andrew will be presenting a case study on how BJSS delivered a solution, presenting it&amp;rsquo;s architecture, CI, infrastructure and monitoring - the talk covers many hot topics in the devops community (microservices, AWS, containers, jenkins, puppet, sensu and graphite) definitely not one to be missed.</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 10th March 2015 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2015-02-12-meetup-tuesday-10th-march-2015-at-the-odi-node-in-leeds/</link>
+      <pubDate>Thu, 12 Feb 2015 19:58:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2015-02-12-meetup-tuesday-10th-march-2015-at-the-odi-node-in-leeds/</guid>
+      <description>After our Winter break we’re pleased to announce that this month we’ll be back at the Open Data Institute Leeds Node on Tuesday 10th March 2015. Instead of our usual two talk format the evening will comprise of a single talk and in a change to previous months a panel discussion.
+6:45 - 7:15 : Grab a beer, have a natter.7:15 - 7:30 : Group updates/news/announcements7:30 - 8:00 : Wes Thompson will be talking about how Reconnix use docker8:00 - 8:15 : Intermission8:15 - 9:00 : &amp;ldquo;DevOops - Real Lessons Learned&amp;rdquo;9:00 - late : Decamp to the WardrobeWe&amp;rsquo;re thrilled to have Wes talk about how Reconnix use docker in their development and how they use it in production to run legacy code, going to be great to hear about it&amp;rsquo;s pros and cons.</description>
+    </item>
+    
+    <item>
+      <title>Xmas Drinks -Thursday 4th December 2014 at The Adelphi Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-11-24-xmas-drinks-thursday-4th-december-2014-at-the-adelphi-leeds/</link>
+      <pubDate>Mon, 24 Nov 2014 20:17:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-11-24-xmas-drinks-thursday-4th-december-2014-at-the-adelphi-leeds/</guid>
+      <description>The great Ben Rockwood tells us Beer is an essential devops tool. With this in mind as we approach the festive season, we thought as there was no meetup planned this month we should&amp;nbsp;have a few celebratory ales.So thanks to the very nice chaps over at DigitaLeeds they have let us gatecrash their xmas shin dig along with new friends from Leeds PHP and the Northern UX group.
+The format of the evening is very simple, drink and chat, no talks, speakers or agenda.</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 11th November 2014 at The Adelphi in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-10-29-meetup-tuesday-11th-november-2014-at-the-adelphi-in-leeds/</link>
+      <pubDate>Wed, 29 Oct 2014 17:46:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-10-29-meetup-tuesday-11th-november-2014-at-the-adelphi-in-leeds/</guid>
+      <description>We&amp;rsquo;re back for the final time in 2014 and yet again we&amp;rsquo;ve put together a packed program of the latest Devops topics. This month we continue our indulgence in technology and bring you Puppet and Graphite.After last months successful return to the Adelphi, we&amp;rsquo;re again back there again. So as last time capacity and tickets are limited so don&amp;rsquo;t be shy in grabbing a ticket. This months selection of talks is top drawer:</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 14th October 2014 at The Adelphi in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-09-29-meetup-tuesday-14th-october-2014-at-the-adelphi-in-leeds/</link>
+      <pubDate>Mon, 29 Sep 2014 19:11:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-09-29-meetup-tuesday-14th-october-2014-at-the-adelphi-in-leeds/</guid>
+      <description>Ladies and Gentlemen, the 14th October is not only the date of our next meetup, but is exactly one year to the day since we had our Inaugural meetup to discuss if the group was worth forming. It was a small affair with about 6 of us upstairs at the Brewery Tap (infact we shared the room with Leeds Alopicia society separated by only a curtain). There was a general consensus that the group had a future, we then drank beer, and talked about devops, file systems and quadcopters, the rest is history.</description>
+    </item>
+    
+    <item>
+      <title>Happy Birthday to us, Happy Birthday to us!</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-09-12-happy-birthday-to-us-happy-birthday-to-us/</link>
+      <pubDate>Fri, 12 Sep 2014 06:40:34 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-09-12-happy-birthday-to-us-happy-birthday-to-us/</guid>
+      <description>Well it&#39;s our first birthday, how time flies when you&#39;re having fun.It&#39;s hard for us to get our tiny brains around just how far we&#39;ve come in such a short period of time. We put the site together and grabbed our @LeedsDevops twitter handle and we were off...
+We are indebted to those who have supported us throughout the year from local groups and business&#39; and we&#39;ve had some great meetups.</description>
+    </item>
+    
+    <item>
+      <title>Announcing our New Sponsor - Contino</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-09-10-announcing-our-new-sponsor-contino/</link>
+      <pubDate>Wed, 10 Sep 2014 11:33:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-09-10-announcing-our-new-sponsor-contino/</guid>
+      <description>Ladies and Gentlemen, it&#39;s with great pride we announce our new group sponsor.To date, our meetup events have been sponsored on an ahdoc basis by numerous companies affiliated to our speakers or invited at our discretion.
+We have been looking for a regular sponsor, but wanted to make sure they were in line with our ethos and had the objectives of the group at heart, we didn&#39;t simply want to side with a company that wanted to sell stuff, we wanted a sponsor that closely understood our values and what we are about.</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 16th September 2014 at The Salem Chapel in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-08-26-meetup-tuesday-16th-september-2014-at-the-salem-chapel-in-leeds/</link>
+      <pubDate>Tue, 26 Aug 2014 18:32:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-08-26-meetup-tuesday-16th-september-2014-at-the-salem-chapel-in-leeds/</guid>
+      <description>Our next Meetup will take place on the 16th September at AQL Salem Chapel. We have two great speakers, firstly we have Sriram Rajan from Rackspace, we asked you what you wanted him to talk about and&amp;hellip;
+You chose Ansible, big thanks to Sriram for letting us&amp;nbsp;throw it open to a vote so many great topics to choose from.
+We also have Gemma Cameron and James Jefferies coming to talk about &amp;ldquo;What&amp;rsquo;s next for DevOps?</description>
+    </item>
+    
+    <item>
+      <title>A Few Pictures From Our Meetup 12/08/14</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-08-17-a-few-pictures-from-our-meetup-12-08-14/</link>
+      <pubDate>Sun, 17 Aug 2014 11:28:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-08-17-a-few-pictures-from-our-meetup-12-08-14/</guid>
+      <description>It was the busiest meetup we&#39;ve had to date with some of the most thought provoking and insightful talks&amp;nbsp;too, here are a couple of snaps from the night:
+The calm before the storm
+Expectant crowd
+&amp;nbsp;
+Justin from Chef talks to us about Accelerating Devops in the Enterprise
+&amp;nbsp;
+The Journey to devops
+Jon from Pitchero explains their infrastructure
+A massive thanks to everyone who came down to the meetup, cracking talks from Justin and Jon, as always a big thanks to our sponsors AQL, Chef and Pitchero</description>
+    </item>
+    
+    <item>
+      <title>The £1000 Chef Fundamentals Workshop Giveaway</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-08-11-the-1000-chef-fundamentals-workshop-giveaway/</link>
+      <pubDate>Mon, 11 Aug 2014 09:50:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-08-11-the-1000-chef-fundamentals-workshop-giveaway/</guid>
+      <description>We&#39;re extremely flattered and excited that our friends at chef have donated a place on their upcoming Chef Fundamentals Workshop as a prize at our meetup tomorrow. The training is worth a &amp;pound;1000 and is two day instructor-taught training teaching you how to write infrastructure code in chef. Overview of Chef Workstation Setup Node Setup Dissecting your first Chef run Introducing the Node object Chef resources and recipes Attributes, templates, and cookbook dependencies Template variables, notifications, and controlling idempotency Recipe inclusion, data bags, and search roles Environments Using community cookbooks Further resources  More details can be found at http://www.</description>
+    </item>
+    
+    <item>
+      <title>SOLD OUT - Tuesday 12th August 2014 Meetup</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-08-06-sold-out-tuesday-12th-august-2014-meetup/</link>
+      <pubDate>Wed, 06 Aug 2014 16:23:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-08-06-sold-out-tuesday-12th-august-2014-meetup/</guid>
+      <description>We&#39;ve shifted 80 tickets for our meet up at AQL on the 12th with Chef and Pichero and are now SOLD OUT, we&#39;re asking our friends at AQL nicely if we can increase capacity a teensy bit. We&#39;re also opening the doors at 6:45pm so people have a little more time to get a beer.In the meantime the waiting list is enabled at eventbrite so sign up and we&#39;ll release the tickets if places become available.</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 12th August 2014 at The Salem Chapel in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-07-16-meetup-tuesday-12th-august-2014-at-the-salem-chapel-in-leeds/</link>
+      <pubDate>Wed, 16 Jul 2014 20:29:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-07-16-meetup-tuesday-12th-august-2014-at-the-salem-chapel-in-leeds/</guid>
+      <description>It may be a lazy summers day but we&amp;rsquo;ve pulled together a cracker of an evening for you. Our next Devops meetup will take place at 6:45pm on Tuesday 12th August thanks to the generosity of our friends AQL at the Salem Chapel.
+We&amp;rsquo;ve really done ourselves proud and got a couple of top notch speakers:
+Fresh from ChefConf Justin Arbuckle the VP EMEA &amp;amp; Chief Enterprise Architect Chef (formally Opscode) will be in attendance to talk about Accelerating the Enterprise Devops Journey (but don&amp;rsquo;t worry this will include an overview of Chef).</description>
+    </item>
+    
+    <item>
+      <title>Notes from the last MeetUp 02/07/14</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-07-15-notes-from-the-last-meetup-02-07-14/</link>
+      <pubDate>Tue, 15 Jul 2014 18:55:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-07-15-notes-from-the-last-meetup-02-07-14/</guid>
+      <description>Big thanks to all who came out to the meetup,&amp;nbsp;Some great talks from Peter Maude and Stephen Myers. Once again gratitude to AQL, Crisp Thinking and SkyBet for their generous sponsorship. Look forward to announcing details of the next meetup in the next few days.
+Presentation notes from old meetups can be found on our github page
+https://github.com/leedsdevops/meetups</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Wednesday 2nd July 2014 at The Salem Chapel in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-06-18-meetup-wednesday-2nd-july-2014-at-the-salem-chapel-in-leeds/</link>
+      <pubDate>Wed, 18 Jun 2014 20:15:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-06-18-meetup-wednesday-2nd-july-2014-at-the-salem-chapel-in-leeds/</guid>
+      <description>We&amp;rsquo;ve managed to find a date and venue sandwiched between World Cup fixtures. Our next Devops meetup will take place at 7pm on Wednesday 2nd July at the home of AQL in Leeds&amp;rsquo; coolest venue The Salem Chapel
+ 
+ We have two great speakers for you:
+Peter Maude - CTO of Leeds Based Crisp Thinking, they provide a service that takes care of moderating and managing User Generated Content, enabling customers to focus on delivering a social experience.</description>
+    </item>
+    
+    <item>
+      <title>40 odd people came to the meetup</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-06-03-40-odd-people-came-to-the-meetup-massive-thanks/</link>
+      <pubDate>Tue, 03 Jun 2014 20:46:32 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-06-03-40-odd-people-came-to-the-meetup-massive-thanks/</guid>
+      <description>40 odd people came to the meetup, Massive thanks to the ODI for having us, Steve and Chris for speaking and our sponsors TuleanALM and Brightbox - cracking stuff!</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 20th May 2014 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-05-05-meetup-tuesday-20th-may-2014-at-the-odi-node-in-leeds/</link>
+      <pubDate>Mon, 05 May 2014 18:52:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-05-05-meetup-tuesday-20th-may-2014-at-the-odi-node-in-leeds/</guid>
+      <description>This month we&#39;ll be at the Open Data Institute Leeds Node. Situated just around the corner from the BBC, Aagrah and the Wardrobe at the top of Munro House. We decide we should really get somewhere that had space for us all (last month at the Adelphi was a little too &#34;cosy&#34;). So we have a great venue with a nice big screen, plenty of seating and panic not - a bar.</description>
+    </item>
+    
+    <item>
+      <title>Leeds Devops Meetup 15/04/14</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-05-05-leeds-devops-meetup-150414-a-very-full-adelphi/</link>
+      <pubDate>Mon, 05 May 2014 18:16:43 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-05-05-leeds-devops-meetup-150414-a-very-full-adelphi/</guid>
+      <description>Leeds Devops Meetup 15/04/14 - a very full Adelphi in Leeds</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 15th April 2014 at The Adelphi Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-03-24-meetup-tuesday-15th-april-2014-at-the-adelphi-leeds/</link>
+      <pubDate>Mon, 24 Mar 2014 21:04:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-03-24-meetup-tuesday-15th-april-2014-at-the-adelphi-leeds/</guid>
+      <description>The April 2014 meet up will take place at the Adelphi in Leeds on Tuesday 15th April at 7pm. Here&#39;s the programme for your delectation and delight: 7:00 - 7:20 : Grab a beer, say hello and scoff a chipy butty. 7:20 - 7:30 : Group updates/news/announcements from Andy Burgin 7:30 - 8:00 : Wes Mason &#34;Where Goombas Dare - Build pipelines, Release Engineering, and You!&#34; 8:00 - 8:15 : Intermission 8:15 - 9:00 : Ian Massingham &#34;</description>
+    </item>
+    
+    <item>
+      <title>Call for speakers - April meetup</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-03-15-call-for-speakers-april-meetup/</link>
+      <pubDate>Sat, 15 Mar 2014 12:14:19 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-03-15-call-for-speakers-april-meetup/</guid>
+      <description>We&#39;re finalising the plans for the April meetup and are looking for speakers, if you&#39;d like to share you thoughts and experiences with a crowd of over 30 like minded DevOps fans, then drop us a line.
+We&#39;re looking for speakers on... Tools - come and tell us about your tool chain and how that fits into Devops practices. CAMS - any tales of how a team has changed to using Devops methods and the highs and lows that brings.</description>
+    </item>
+    
+    <item>
+      <title>Drupal Yorkshire 11/03/14</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-03-11-drupal-yorkshire-11-03-14/</link>
+      <pubDate>Tue, 11 Mar 2014 08:03:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-03-11-drupal-yorkshire-11-03-14/</guid>
+      <description>We&#39;re speaking at the Drupal Yorkshire event&amp;nbsp;tonight, tickets are available from http://drupalyorkshire.eventbrite.com/?aff=estw
+Talk will include an explanation of devops, what it is, it&#39;s roots and some examples off tools to implement devops practices - were talking CAMS!
+&amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>Notes from Meet Up 04/03/14</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-03-11-notes-from-meet-up-04-03-14/</link>
+      <pubDate>Tue, 11 Mar 2014 08:00:33 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-03-11-notes-from-meet-up-04-03-14/</guid>
+      <description>Smashing night was had by all, big thanks to our speakers: Mark Barrett from Leeds Data Mill, Simon Davy from Canonical and SkyBet for sponsoring, the venue, bar and chip butties.
+There&#39;s a really nice review of the night on http://ant1441.github.io/2014/03/05/Leeds-DevOps.html&amp;nbsp;posted by Adam from the Test People.
+See you next time</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 4th March 2014 at The Adelphi Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-02-16-meetup-tuesday-4th-march-2014-at-the-adelphi-leeds/</link>
+      <pubDate>Sun, 16 Feb 2014 10:06:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-02-16-meetup-tuesday-4th-march-2014-at-the-adelphi-leeds/</guid>
+      <description>Following&amp;nbsp; the January meetup we&#39;re back , this time at The Adelphi in Leeds on Tuesday 4th March 2014 at 7pm, which means we can increase the capacity upto 40 people.As always we we&#39;ve some great speakers and if you&#39;d like to sponsor the event (venue, bar and food) then please let us know.
+This month we have...
+ Simon Davy will be talking to us about how Canonical use Juju to develop and deploy complex environments in production that provide services for Ubuntu users.</description>
+    </item>
+    
+    <item>
+      <title>Resources for the Agile Yorkshire Group</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-02-15-resources-for-the-agile-yorkshire-group/</link>
+      <pubDate>Sat, 15 Feb 2014 19:33:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-02-15-resources-for-the-agile-yorkshire-group/</guid>
+      <description>We presented a &#34;DevOps 101&#34; talk at Agile Yorkshire last week. One of the slides listed resources for learning more about DevOps and I promised to create a&amp;nbsp;page on our site listing them in detail. Here it is....Podcasts
+ Devops Cafe - http://devopscafe.org/ - Original DevOps podcast, still current and relevant, older shows include discussions with all the names that matter in DevOps Foodfight Show - http://foodfightshow.org/ chef focused discussion on devops Arrested DevOps - http://www.</description>
+    </item>
+    
+    <item>
+      <title>Agile Yorkshire Presentation 11/02/2014 - DevOps 101</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-02-15-agile-yorkshire-presentation-11-02-2014-devops-101/</link>
+      <pubDate>Sat, 15 Feb 2014 19:24:47 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-02-15-agile-yorkshire-presentation-11-02-2014-devops-101/</guid>
+      <description>Last week we presented a &#34;DevOps 101&#34; talk to the fine people over at Agile Yorkshire.
+http://www.agileyorkshire.org/event-announcements/11thfebsebroseandbadtestgoodtestandyburginwithadevops101
+We covered some of the &#34;classic&#34; definitions of DevOps from Adam Jacobs, John Willis and Damon Edwards, although the slightly sweary version from @lusis was perhaps the most well received.
+We discussed the history of the movement and the principles it builds upon from Systems Thinking, Therory of Constraints and Lean, including a detailed look at how those are applied to CAMS (Culture, Automation, Measurement and Sharing).</description>
+    </item>
+    
+    <item>
+      <title>Notes from Meet Up 14/01/14</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-01-18-notes-from-meet-up-14-01-14/</link>
+      <pubDate>Sat, 18 Jan 2014 13:45:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-01-18-notes-from-meet-up-14-01-14/</guid>
+      <description>The third meet up of LeedsDevops took place at Leeds Central on Tuesday 14th January. We&#39;d sold out the 25 tickets on eventbrite and we maybe could have had a few more people in the venue, so next time we&#39;ll look for a bigger venue.After a quick recap of the groups aims and objective we had an insightful talk from Robin Harvey who is currently contracting at Orange Digital. He ran through his experiences of Devops and detailed the issues created by&amp;nbsp;the fast evolution of cloud services.</description>
+    </item>
+    
+    <item>
+      <title>SOLD OUT - Tuesday 14th January 2014 Meetup</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-01-08-sold-out-tuesday-14th-january-2014-meetup/</link>
+      <pubDate>Wed, 08 Jan 2014 08:05:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-01-08-sold-out-tuesday-14th-january-2014-meetup/</guid>
+      <description>Even after releasing another 5 tickets for the meetup yesterday, we&#39;ve still managed to give away 12 tickets yesterday - Big thank you folks, we&#39;re really chuffed.
+We&#39;ve added a waitlist to the eventbrite page so if you still want to come but didn&#39;t manage to get a ticket put your name down and w can let you know if there are any cancellations.
+If we get a big enough waitlist by Friday then we may&amp;nbsp;need to look at getting a bigger venue.</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 14th January 2014 at The Central Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2013-12-14-meetup-tuesday-14th-january-2014-at-the-central-leeds/</link>
+      <pubDate>Sat, 14 Dec 2013 21:33:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2013-12-14-meetup-tuesday-14th-january-2014-at-the-central-leeds/</guid>
+      <description>After the roaring success of the second meet up we thought we&#39;d do it all again. But before the details, we said it on twitter but we&#39;ll say it again - THANK YOU to...
+ Andy Burgin from MadeByPi for the DevopsDays presentation. John Denholm from SkyBet for the insight into how DevOps has has been implemented to deliver business value. SkyBet for &#34;Tab50&#34; - big thank you for the beers.</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 26th November 2013 at The Central Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2013-11-16-meetup-tuesday-26th-november-2013-at-the-central-leeds/</link>
+      <pubDate>Sat, 16 Nov 2013 12:39:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2013-11-16-meetup-tuesday-26th-november-2013-at-the-central-leeds/</guid>
+      <description>Yes I know it&#39;s a bit short notice but we finally got something booked. Lets get together at The Central Leeds on Tuesday 26th November 2013 starting at 7pmThis is the plan...
+ We&#39;ll start the evening with a quick recap of the groups aims and objectives Next Andy Burgin from MadeByPi will be talking about his recent outing to DevopsDays London, sharing his opinions on the talks and speakers whilst wearing his nice new T-Shirt.</description>
+    </item>
+    
+    <item>
+      <title>Second Meetup - Tuesday 26th November</title>
+      <link>http://www.leedsdevops.org.uk/post/2013-11-14-second-meetup-tuesday-26th-november/</link>
+      <pubDate>Thu, 14 Nov 2013 08:18:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2013-11-14-second-meetup-tuesday-26th-november/</guid>
+      <description>We decided to go ahead with the second meetup on Tuesday 26th November.
+We still have some details&amp;nbsp;to sort out, such as venue, time and speaker - but we are on with that now and hope to have this nailed in the next&amp;nbsp;day or two.&amp;nbsp;Just wanted to let you all know so you could keep your diaries free!
+More news soon.
+&amp;nbsp;
+&amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>Notes from Inaugural Meetup</title>
+      <link>http://www.leedsdevops.org.uk/post/2013-11-02-notes-from-inaugural-meetup/</link>
+      <pubDate>Sat, 02 Nov 2013 16:09:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2013-11-02-notes-from-inaugural-meetup/</guid>
+      <description>Brewery Tap Leeds - 14/10/13@7:00pm
+The agenda for the evening was:
+ Short presentation about the group and proposed ideas. Discussion on what the group should be representing. Ideas for future meetups including format and topics. Appeal for helpers, speakers, sponsors and publicity  Attendees from Label Media, Flo Design, Sky Bet, Brighthost, Canonical, Corecom, MadeByPi and others.Outcome
+Group founder @andyburgin presented his view on what the group should be about and it&#39;s objectives, this was recived well and encouraged a discussion on who the group should be for.</description>
+    </item>
+    
+    <item>
+      <title>The Inaugural Meeting 14/10/13 @ Brewery Tap Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2013-10-01-the-inaugural-meeting-14-10-13-brewery-tap-leeds/</link>
+      <pubDate>Tue, 01 Oct 2013 18:40:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2013-10-01-the-inaugural-meeting-14-10-13-brewery-tap-leeds/</guid>
+      <description>It&#39;s with great excitement we announce the inaugural meeting of LeedsDevops.
+Here&#39;s a quick agenda....
+ Short presentation about the group and proposed ideas. Disscusion on what the group should be representing. Ideas for future meetups including format and topics Appeal for helpers, speakers, sponsors and publicity  As this is the first meetup there&#39;s no &#34;Technical Presentation&#34; or &#34;Speaker&#34;, it&amp;rsquo;s much more informal getting the thing off the ground chat.</description>
+    </item>
+    
+    <item>
+      <title>Neighbours, everybody needs good Neighbours.</title>
+      <link>http://www.leedsdevops.org.uk/post/2013-09-25-neighbours-everybody-needs-good-neighbours/</link>
+      <pubDate>Wed, 25 Sep 2013 20:12:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2013-09-25-neighbours-everybody-needs-good-neighbours/</guid>
+      <description>So with well over a hundred and thirty&amp;nbsp;twitter followers it&#39;s time to start thinking of our first meetup, So like a couple moving into a starter home, we should say hello to the neighbours....
+ Leeds Php meet 3rd Monday of each month - http://leedsphp.org/ Leeds Ruby Thing meet the last Thursday of the month - http://lanyrd.com/guides/leeds-ruby-thing/ Node Up North - meet the last Wednesday of the month - http://www.meetup.com/NodeUpNorth/ Leeds JS seem to be hibernating at the moment - http://javascript-leeds.</description>
+    </item>
+    
+    <item>
+      <title>The LeedsDevops Manifesto</title>
+      <link>http://www.leedsdevops.org.uk/post/2013-09-23-the-leedsdevops-manifesto/</link>
+      <pubDate>Mon, 23 Sep 2013 21:04:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2013-09-23-the-leedsdevops-manifesto/</guid>
+      <description>We sat down and said &#34;we need a mission statement, a manifesto, something that describes to newcomers what Devops is. At the same time it mustn&#39;t be too dumbed down for those who have been practicing the craft for years&#34; - easy ? Nope. We realised that whenever anyone describes Devops they almost always start be saying what it isn&#39;t.
+There are loads of definitions all written from differing view points, be it a Developer, a Sys Admin or Management, all have their own spin.</description>
+    </item>
+    
+  </channel>
+</rss>

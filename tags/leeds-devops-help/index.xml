@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leeds Devops Help on LeedsDevops</title>
+    <link>http://www.leedsdevops.org.uk/tags/leeds-devops-help/</link>
+    <description>Recent content in Leeds Devops Help on LeedsDevops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Fri, 13 Sep 2013 09:20:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.leedsdevops.org.uk/tags/leeds-devops-help/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Help Wanted - Apply Within</title>
+      <link>http://www.leedsdevops.org.uk/post/2013-09-13-help-wanted-apply-within/</link>
+      <pubDate>Fri, 13 Sep 2013 09:20:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2013-09-13-help-wanted-apply-within/</guid>
+      <description>Ok, so we&#39;re looking for...
+Voices - to promote this group to whoever and however you can, but twitter might be a simple starting point, please retweet stuff.
+Hands - to help run the group, from posting stuff to twitter or tumblr, to organising meetups.
+Sponsors - we don&#39;t need a huge amount of cash, just enough to pay for the hire of the function room at a pub in Leeds, maybe a bit extra for a bite to eat and Beer.</description>
+    </item>
+    
+  </channel>
+</rss>

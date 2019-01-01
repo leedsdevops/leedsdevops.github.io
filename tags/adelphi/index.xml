@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adelphi on LeedsDevops</title>
+    <link>http://www.leedsdevops.org.uk/tags/adelphi/</link>
+    <description>Recent content in Adelphi on LeedsDevops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Mon, 24 Nov 2014 20:17:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.leedsdevops.org.uk/tags/adelphi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Xmas Drinks -Thursday 4th December 2014 at The Adelphi Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-11-24-xmas-drinks-thursday-4th-december-2014-at-the-adelphi-leeds/</link>
+      <pubDate>Mon, 24 Nov 2014 20:17:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-11-24-xmas-drinks-thursday-4th-december-2014-at-the-adelphi-leeds/</guid>
+      <description>The great Ben Rockwood tells us Beer is an essential devops tool. With this in mind as we approach the festive season, we thought as there was no meetup planned this month we should&amp;nbsp;have a few celebratory ales.So thanks to the very nice chaps over at DigitaLeeds they have let us gatecrash their xmas shin dig along with new friends from Leeds PHP and the Northern UX group.
+The format of the evening is very simple, drink and chat, no talks, speakers or agenda.</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 15th April 2014 at The Adelphi Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-03-24-meetup-tuesday-15th-april-2014-at-the-adelphi-leeds/</link>
+      <pubDate>Mon, 24 Mar 2014 21:04:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-03-24-meetup-tuesday-15th-april-2014-at-the-adelphi-leeds/</guid>
+      <description>The April 2014 meet up will take place at the Adelphi in Leeds on Tuesday 15th April at 7pm. Here&#39;s the programme for your delectation and delight: 7:00 - 7:20 : Grab a beer, say hello and scoff a chipy butty. 7:20 - 7:30 : Group updates/news/announcements from Andy Burgin 7:30 - 8:00 : Wes Mason &#34;Where Goombas Dare - Build pipelines, Release Engineering, and You!&#34; 8:00 - 8:15 : Intermission 8:15 - 9:00 : Ian Massingham &#34;</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 4th March 2014 at The Adelphi Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-02-16-meetup-tuesday-4th-march-2014-at-the-adelphi-leeds/</link>
+      <pubDate>Sun, 16 Feb 2014 10:06:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-02-16-meetup-tuesday-4th-march-2014-at-the-adelphi-leeds/</guid>
+      <description>Following&amp;nbsp; the January meetup we&#39;re back , this time at The Adelphi in Leeds on Tuesday 4th March 2014 at 7pm, which means we can increase the capacity upto 40 people.As always we we&#39;ve some great speakers and if you&#39;d like to sponsor the event (venue, bar and food) then please let us know.
+This month we have...
+ Simon Davy will be talking to us about how Canonical use Juju to develop and deploy complex environments in production that provide services for Ubuntu users.</description>
+    </item>
+    
+  </channel>
+</rss>

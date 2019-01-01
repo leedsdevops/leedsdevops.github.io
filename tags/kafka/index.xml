@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kafka on LeedsDevops</title>
+    <link>http://www.leedsdevops.org.uk/tags/kafka/</link>
+    <description>Recent content in Kafka on LeedsDevops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Thu, 05 Apr 2018 15:39:13 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.leedsdevops.org.uk/tags/kafka/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meetup - Tuesday 17th April 2018 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2018-04-05-meetup-tuesday-17th-april-2018-at-the-odi-node-in-leeds/</link>
+      <pubDate>Thu, 05 Apr 2018 15:39:13 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2018-04-05-meetup-tuesday-17th-april-2018-at-the-odi-node-in-leeds/</guid>
+      <description>It’s time for another devops meetup at the ODI Node in Leeds on Tuesday 17th April. The evening will be:
+6:45 - 7:15 : Doors open, have a chat, make some new devops friends
+7:15 - 7:25 : Group updates/news/announcements
+7:25 - 8:05 : Look Ma, no Code! Apache Kafka and KSQL
+8:05 - 8:20 : Intermission
+8:20 - 9:00 : Ansible Enterprise Grade
+9:00 - late : Decamp to the Wardrobe</description>
+    </item>
+    
+    <item>
+      <title>Meetup - Tuesday 27th February 2018 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2018-02-11-meetup-tuesday-27th-february-2018-at-the-odi-node-in-leeds/</link>
+      <pubDate>Sun, 11 Feb 2018 19:46:17 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2018-02-11-meetup-tuesday-27th-february-2018-at-the-odi-node-in-leeds/</guid>
+      <description>Happy new year! it’s time for the first devops get together of 2018 at the ODI Node in Leeds on Tuesday 27th February. We have a fantastic duo of talks for you:
+6:45 - 7:15 : Doors open, have a chat, make some new devops friends
+7:15 - 7:25 : Group updates/news/announcements
+7:25 - 8:05 : Building Pipelines with Kafka from Scratch - Ben Abramson and Robert Knowles of William Hill</description>
+    </item>
+    
+  </channel>
+</rss>

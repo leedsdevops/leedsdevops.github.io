@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code of Conduct on LeedsDevops</title>
+    <link>http://www.leedsdevops.org.uk/categories/code-of-conduct/</link>
+    <description>Recent content in Code of Conduct on LeedsDevops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Sat, 09 Sep 2017 09:54:07 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.leedsdevops.org.uk/categories/code-of-conduct/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Code of Conduct</title>
+      <link>http://www.leedsdevops.org.uk/post/2017-09-09-code-of-conduct/</link>
+      <pubDate>Sat, 09 Sep 2017 09:54:07 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2017-09-09-code-of-conduct/</guid>
+      <description>All attendees, speakers, sponsors and volunteers at any LeedsDevops meetup are required to agree with the following code of conduct. Organisers will enforce this code throughout any events and online communications related to LeedsDevops.
+ANTI HARASSMENT&amp;nbsp;POLICY
+LeedsDevops is dedicated to providing a harassment-free meetup experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of meetup participants in any form.</description>
+    </item>
+    
+  </channel>
+</rss>

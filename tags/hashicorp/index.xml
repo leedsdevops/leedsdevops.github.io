@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hashicorp on LeedsDevops</title>
+    <link>http://www.leedsdevops.org.uk/tags/hashicorp/</link>
+    <description>Recent content in Hashicorp on LeedsDevops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Mon, 19 Nov 2018 20:38:28 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.leedsdevops.org.uk/tags/hashicorp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meetup - Thursday 6th December 2018 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2018-11-19-meetup-thursday-6th-december-2018-at-the-odi-node-in-leeds/</link>
+      <pubDate>Mon, 19 Nov 2018 20:38:28 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2018-11-19-meetup-thursday-6th-december-2018-at-the-odi-node-in-leeds/</guid>
+      <description>We&#39;re going to see the new year out in style at The ODI Node in Leeds on Thursday 6th December 2018:
+6:45 - 7:15 : Doors open, have a chat, make some new devops friends
+7:15 - 7:25 : Group updates/news/announcements
+7:25 - 8:05 : DevTest Microsoft stack environments.
+8:05 - 8:20 : Intermission
+8:20 - 9:00 : Terraform 0.12 guided tour
+Our first speaker is Sam Williams, Sam has been in the IT industry for nearly 15 years.</description>
+    </item>
+    
+  </channel>
+</rss>

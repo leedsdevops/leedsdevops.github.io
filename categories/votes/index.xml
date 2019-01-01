@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Votes on LeedsDevops</title>
+    <link>http://www.leedsdevops.org.uk/categories/votes/</link>
+    <description>Recent content in Votes on LeedsDevops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Tue, 09 Jun 2015 20:43:59 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.leedsdevops.org.uk/categories/votes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The votes are in</title>
+      <link>http://www.leedsdevops.org.uk/post/2015-06-09-the-votes-are-in/</link>
+      <pubDate>Tue, 09 Jun 2015 20:43:59 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2015-06-09-the-votes-are-in/</guid>
+      <description>We took the Open Space voting from DevopsDays Paris and asked the meetup groups in Leeds and Manchester what they wanted to hear about ?
+
+So here are the results:
+
+&amp;nbsp;Topic&amp;nbsp;&amp;nbsp;Paris&amp;nbsp;&amp;nbsp;Leeds&amp;nbsp;&amp;nbsp;Manchester&amp;nbsp;&amp;nbsp;Monitoring as Code&amp;nbsp;&amp;nbsp;30&amp;nbsp;&amp;nbsp;5&amp;nbsp;&amp;nbsp;11&amp;nbsp; &amp;nbsp;Docker 101&amp;nbsp;&amp;nbsp;15&amp;nbsp;&amp;nbsp;5&amp;nbsp;&amp;nbsp;5&amp;nbsp; &amp;nbsp;How to explain to management why devops is awesome&amp;nbsp;&amp;nbsp;11&amp;nbsp;&amp;nbsp;1&amp;nbsp;&amp;nbsp;4&amp;nbsp; &amp;nbsp;Why? Ansible or Chef or Puppet (selection)&amp;nbsp;&amp;nbsp;16&amp;nbsp;&amp;nbsp;10&amp;nbsp;&amp;nbsp;4&amp;nbsp; &amp;nbsp;Code Review&amp;nbsp;&amp;nbsp;20&amp;nbsp;&amp;nbsp;3&amp;nbsp;&amp;nbsp;0&amp;nbsp; &amp;nbsp;Leaders expected attitude in a devops journey&amp;nbsp;&amp;nbsp;16&amp;nbsp;&amp;nbsp;0&amp;nbsp;&amp;nbsp;0&amp;nbsp; &amp;nbsp;How to make test automation reliable, reusable, robust and costless &amp;nbsp;&amp;nbsp;9&amp;nbsp;&amp;nbsp;4&amp;nbsp;&amp;nbsp;2&amp;nbsp; &amp;nbsp;Microservices a support nightmare ?</description>
+    </item>
+    
+  </channel>
+</rss>

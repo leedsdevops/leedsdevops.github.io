@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sponsors on LeedsDevops</title>
+    <link>http://www.leedsdevops.org.uk/categories/sponsors/</link>
+    <description>Recent content in Sponsors on LeedsDevops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Wed, 10 Sep 2014 11:33:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.leedsdevops.org.uk/categories/sponsors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Announcing our New Sponsor - Contino</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-09-10-announcing-our-new-sponsor-contino/</link>
+      <pubDate>Wed, 10 Sep 2014 11:33:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-09-10-announcing-our-new-sponsor-contino/</guid>
+      <description>Ladies and Gentlemen, it&#39;s with great pride we announce our new group sponsor.To date, our meetup events have been sponsored on an ahdoc basis by numerous companies affiliated to our speakers or invited at our discretion.
+We have been looking for a regular sponsor, but wanted to make sure they were in line with our ethos and had the objectives of the group at heart, we didn&#39;t simply want to side with a company that wanted to sell stuff, we wanted a sponsor that closely understood our values and what we are about.</description>
+    </item>
+    
+  </channel>
+</rss>

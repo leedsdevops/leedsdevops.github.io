@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drupal on LeedsDevops</title>
+    <link>http://www.leedsdevops.org.uk/tags/drupal/</link>
+    <description>Recent content in Drupal on LeedsDevops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Tue, 11 Mar 2014 08:03:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.leedsdevops.org.uk/tags/drupal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Drupal Yorkshire 11/03/14</title>
+      <link>http://www.leedsdevops.org.uk/post/2014-03-11-drupal-yorkshire-11-03-14/</link>
+      <pubDate>Tue, 11 Mar 2014 08:03:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2014-03-11-drupal-yorkshire-11-03-14/</guid>
+      <description>We&#39;re speaking at the Drupal Yorkshire event&amp;nbsp;tonight, tickets are available from http://drupalyorkshire.eventbrite.com/?aff=estw
+Talk will include an explanation of devops, what it is, it&#39;s roots and some examples off tools to implement devops practices - were talking CAMS!
+&amp;nbsp;</description>
+    </item>
+    
+  </channel>
+</rss>

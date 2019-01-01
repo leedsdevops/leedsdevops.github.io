@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubuntu on LeedsDevops</title>
+    <link>http://www.leedsdevops.org.uk/tags/ubuntu/</link>
+    <description>Recent content in Ubuntu on LeedsDevops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Mon, 04 Apr 2016 19:24:26 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.leedsdevops.org.uk/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meetup - Tuesday 26th April 2016 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2016-04-04-meetup-tuesday-26th-april-2016-at-the-odi-node-in-leeds/</link>
+      <pubDate>Mon, 04 Apr 2016 19:24:26 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2016-04-04-meetup-tuesday-26th-april-2016-at-the-odi-node-in-leeds/</guid>
+      <description>We&#39;re extremely pleased to be running our next Devops meetup as part of Leeds Digital Festival. To celebrate we will be meeting at The ODI Node in Leeds on Tuesday 26th April 2016 for an exciting evening of devops chat. Yet again we bring you a cracking line up: 6:45 - 7:15 : Grab a beer, have a natter.
+7:15 - 7:30 : Group updates/news/announcements
+7:30 - 8:00 : Simon Davy - Canonical</description>
+    </item>
+    
+  </channel>
+</rss>

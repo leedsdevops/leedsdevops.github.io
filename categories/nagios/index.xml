@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nagios on LeedsDevops</title>
+    <link>http://www.leedsdevops.org.uk/categories/nagios/</link>
+    <description>Recent content in Nagios on LeedsDevops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Thu, 25 Jun 2015 11:15:13 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.leedsdevops.org.uk/categories/nagios/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>John Leach plays his Nagios Song at Leeds Devops meetup</title>
+      <link>http://www.leedsdevops.org.uk/post/2015-06-25-john-leach-plays-his-nagios-song-at-leeds-devops/</link>
+      <pubDate>Thu, 25 Jun 2015 11:15:13 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2015-06-25-john-leach-plays-his-nagios-song-at-leeds-devops/</guid>
+      <description>John Leach plays his &amp;ldquo;Nagios Song&amp;rdquo; at Leeds Devops meetup, 23rd June 2015 at Leeds ODI
+ </description>
+    </item>
+    
+  </channel>
+</rss>

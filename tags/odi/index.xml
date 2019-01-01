@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Odi on LeedsDevops</title>
+    <link>http://www.leedsdevops.org.uk/tags/odi/</link>
+    <description>Recent content in Odi on LeedsDevops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Sun, 26 Apr 2015 18:57:22 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.leedsdevops.org.uk/tags/odi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meetup - Tuesday 19th May 2015 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2015-04-26-meetup-tuesday-19th-may-2015-at-the-odi-node-in-leeds/</link>
+      <pubDate>Sun, 26 Apr 2015 18:57:22 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2015-04-26-meetup-tuesday-19th-may-2015-at-the-odi-node-in-leeds/</guid>
+      <description>Tuesday 19th May 2015 sees us return to the Open Data Institute Leeds Node. After last times Panel format we&amp;rsquo;re back to to our usual running order of two fantastic speakers&amp;hellip;
+6:45 - 7:15 : Grab a beer, have a natter.7:15 - 7:30 : Group updates/news/announcements7:30 - 8:00 : Delivering microservices in the cloud8:00 - 8:15 : Intermission8:15 - 9:00 : DevopsDays Paris Recap9:00 - late : Decamp to the WardrobeAndrew Norman is a Principal Architect at BJSS and will speaking about &amp;ldquo;Delivering microservices in the cloud&amp;rdquo; - Andrew will be presenting a case study on how BJSS delivered a solution, presenting it&amp;rsquo;s architecture, CI, infrastructure and monitoring - the talk covers many hot topics in the devops community (microservices, AWS, containers, jenkins, puppet, sensu and graphite) definitely not one to be missed.</description>
+    </item>
+    
+  </channel>
+</rss>

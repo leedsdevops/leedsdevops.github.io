@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leeds Devops on LeedsDevops</title>
+    <link>http://www.leedsdevops.org.uk/tags/leeds-devops/</link>
+    <description>Recent content in Leeds Devops on LeedsDevops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Thu, 12 Feb 2015 19:58:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.leedsdevops.org.uk/tags/leeds-devops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meetup - Tuesday 10th March 2015 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2015-02-12-meetup-tuesday-10th-march-2015-at-the-odi-node-in-leeds/</link>
+      <pubDate>Thu, 12 Feb 2015 19:58:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2015-02-12-meetup-tuesday-10th-march-2015-at-the-odi-node-in-leeds/</guid>
+      <description>After our Winter break we’re pleased to announce that this month we’ll be back at the Open Data Institute Leeds Node on Tuesday 10th March 2015. Instead of our usual two talk format the evening will comprise of a single talk and in a change to previous months a panel discussion.
+6:45 - 7:15 : Grab a beer, have a natter.7:15 - 7:30 : Group updates/news/announcements7:30 - 8:00 : Wes Thompson will be talking about how Reconnix use docker8:00 - 8:15 : Intermission8:15 - 9:00 : &amp;ldquo;DevOops - Real Lessons Learned&amp;rdquo;9:00 - late : Decamp to the WardrobeWe&amp;rsquo;re thrilled to have Wes talk about how Reconnix use docker in their development and how they use it in production to run legacy code, going to be great to hear about it&amp;rsquo;s pros and cons.</description>
+    </item>
+    
+    <item>
+      <title>And The Point Is ?</title>
+      <link>http://www.leedsdevops.org.uk/post/2013-09-14-and-the-point-is/</link>
+      <pubDate>Sat, 14 Sep 2013 09:49:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2013-09-14-and-the-point-is/</guid>
+      <description>In a single day we&#39;ve hit 50 followers on the @leedsdevops twitter account. Which is loads more than we ever expected - so thank you!
+One very good question posed by @CraigPickles was...
+ @leedsDevops so what exactly is your aim/ambition for this group/gathering? #intrigued
+ The assumption we&#39;ve made here is that everyone already has basic understanding of what DevOps is and the kind of culture, skills and tools that it embraces.</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>http://www.leedsdevops.org.uk/post/2013-09-13-welcome/</link>
+      <pubDate>Fri, 13 Sep 2013 09:14:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2013-09-13-welcome/</guid>
+      <description>Welcome to Leeds DevOps, the home of what we hope will become a hub for everyone in Leeds and the surrounding area with an interest in all things DevOps.
+Whether you a Developer or in Operations (or both!)&amp;nbsp;you&#39;re welcome to exchange ideas, tools, working practices or cultural shifts. Be that on here or via @leedsdevops let&#39;s get together and start sharing stuff.
+The plan is to have a monthly meetup in the format of the existing groups in Leeds (@leedsphp, @leedsdatathing, node up north etc), where there is a presentation on a tool/idea/culture, followed by a healthy discussion possibly over a beer (or two).</description>
+    </item>
+    
+  </channel>
+</rss>

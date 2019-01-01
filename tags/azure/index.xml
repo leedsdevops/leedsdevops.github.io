@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure on LeedsDevops</title>
+    <link>http://www.leedsdevops.org.uk/tags/azure/</link>
+    <description>Recent content in Azure on LeedsDevops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Sun, 14 Oct 2018 18:31:32 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.leedsdevops.org.uk/tags/azure/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meetup - Tuesday 23rd October 2018 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2018-10-14-meetup-tuesday-23rd-october-2018-at-the-odi-node-in-leeds/</link>
+      <pubDate>Sun, 14 Oct 2018 18:31:32 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2018-10-14-meetup-tuesday-23rd-october-2018-at-the-odi-node-in-leeds/</guid>
+      <description>After our extended summer break we&#39;re back at the ODI Node in Leeds on Tuesday 23rd October for a night of Devops chatter:
+6:45 - 7:15 : Doors open, have a chat, make some new devops friends
+7:15 - 7:25 : Group updates/news/announcements - Findmypast
+7:25 - 8:05 : Azure DevOps
+8:05 - 8:20 : Intermission
+8:20 - 9:00 : Accelerating Delivery Velocity With Kubernetes
+9:00 - late : Decamp to the Wardrobe</description>
+    </item>
+    
+  </channel>
+</rss>

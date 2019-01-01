@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Verism on LeedsDevops</title>
+    <link>http://www.leedsdevops.org.uk/tags/verism/</link>
+    <description>Recent content in Verism on LeedsDevops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Tue, 13 Mar 2018 21:01:11 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.leedsdevops.org.uk/tags/verism/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meetup - Tuesday 27th March 2018 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2018-03-13-meetup-tuesday-27th-march-2018-at-the-odi-node-in-leeds/</link>
+      <pubDate>Tue, 13 Mar 2018 21:01:11 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2018-03-13-meetup-tuesday-27th-march-2018-at-the-odi-node-in-leeds/</guid>
+      <description>Spring is in the air and it’s time for a devops meetup at the ODI Node in Leeds on Tuesday 27th March. We bring you an couple of brilliant talks:
+6:45 - 7:15 : Doors open, have a chat, make some new devops friends
+7:15 - 7:25 : Group updates/news/announcements
+7:25 - 8:05 : VeriSM - making sense of digital transformation - Claire Agutter
+8:05 - 8:20 : Intermission
+8:20 - 9:00 : Questions you should ask at your &#34;</description>
+    </item>
+    
+  </channel>
+</rss>

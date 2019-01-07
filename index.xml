@@ -5,12 +5,40 @@
     <link>http://www.leedsdevops.org.uk/</link>
     <description>Recent content on LeedsDevops</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-gb</language>
     <copyright>Code released under the Apache 2.0 license.</copyright>
-    <lastBuildDate>Mon, 19 Nov 2018 20:38:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 21:12:49 +0000</lastBuildDate>
     
 	<atom:link href="http://www.leedsdevops.org.uk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>http://www.leedsdevops.org.uk/about/</link>
+      <pubDate>Tue, 01 Jan 2019 21:12:49 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/about/</guid>
+      <description>What is a LeedsDevops ? LeedsDevops is a technology meetup in Leeds about DevOps (you can see we thought long and hard about the name). It&amp;rsquo;s an get together for a like-minded people to get together and enjoy presentations about DevOps. There are many interpretations of DevOps, but we see it as the combination of technology, people and organisations easing the practice of getting code into production (and keeping it running).</description>
+    </item>
+    
+    <item>
+      <title>Attend</title>
+      <link>http://www.leedsdevops.org.uk/attend/</link>
+      <pubDate>Tue, 01 Jan 2019 21:12:49 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/attend/</guid>
+      <description>Attending a Meetup What is a Meetup ? There are many different interpretations of the word DevOps, it was intentionally left without a definition so the paradigm could evolve over time. The organising team for LeedsDevops see DevOps as a combination of technology, people and organisations - our meetup talks and panels reflect those aspects.
+Our events start in the early evening allowing enough time for those that don&amp;rsquo;t work in central Leeds to get to the venue and for those that do enough time to grab something to eat beforehand.</description>
+    </item>
+    
+    <item>
+      <title>Speak</title>
+      <link>http://www.leedsdevops.org.uk/speak/</link>
+      <pubDate>Tue, 01 Jan 2019 21:12:39 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/speak/</guid>
+      <description>Want to Speak at LeedsDevops ? There are many interpretations of DevOps, but we see it as the combination of technology, people and organisations - easing the practice of getting code into production (and running it there). We are always looking for speakers to talk at the meetup on the aforementioned topics, this could be a tutorial on using a technology or a case study sharing experiences and lessons learned - we&amp;rsquo;re pretty flexible on the format, let us know if you want to do something different than a 40-minute talk.</description>
+    </item>
     
     <item>
       <title>Meetup - Thursday 6th December 2018 at The ODI Node in Leeds</title>

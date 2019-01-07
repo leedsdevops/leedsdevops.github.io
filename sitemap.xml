@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.leedsdevops.org.uk/about/</loc>
+    <lastmod>2019-01-01T21:12:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.leedsdevops.org.uk/attend/</loc>
+    <lastmod>2019-01-01T21:12:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.leedsdevops.org.uk/speak/</loc>
+    <lastmod>2019-01-01T21:12:39+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.leedsdevops.org.uk/post/2018-11-19-meetup-thursday-6th-december-2018-at-the-odi-node-in-leeds/</loc>
     <lastmod>2018-11-19T20:38:28+00:00</lastmod>
   </url>
@@ -593,7 +608,7 @@
   
   <url>
     <loc>http://www.leedsdevops.org.uk/</loc>
-    <lastmod>2018-11-19T20:38:28+00:00</lastmod>
+    <lastmod>2019-01-01T21:12:49+00:00</lastmod>
     <priority>0</priority>
   </url>
   

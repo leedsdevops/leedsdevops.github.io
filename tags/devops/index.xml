@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Code released under the Apache 2.0 license.</copyright>
-    <lastBuildDate>Mon, 19 Nov 2018 20:38:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jan 2019 09:32:28 +0000</lastBuildDate>
     
 	<atom:link href="http://www.leedsdevops.org.uk/tags/devops/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Meetup - Thursday 24th January 2019 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2019-01-15-meetup-tuesday-24th-january-2019-at-the-odi-node-in-leeds/</link>
+      <pubDate>Tue, 15 Jan 2019 09:32:28 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2019-01-15-meetup-tuesday-24th-january-2019-at-the-odi-node-in-leeds/</guid>
+      <description>Happy new year, we&amp;rsquo;ve our first meetup of 2019 at The ODI Node in Leeds on Thursday 24th January 2019:
+ 6:45 - 7:15 : Doors open, have a chat, make some new devops friends 7:15 - 7:25 : Group updates/news/announcements 7:25 - 8:55 : TBC. 8:55 - 8:10 : Intermission 8:10 - 9:00 : The Unexpected (Infrastructure Management) Journey 9:00 - late : Decamp to the Wardrobe  We&amp;rsquo;re still dotting the i&amp;rsquo;s and crossing the t&amp;rsquo;s for our first speaker, but expect 30 mins filled with CI/CD, testing and the odd map!</description>
+    </item>
     
     <item>
       <title>Meetup - Thursday 6th December 2018 at The ODI Node in Leeds</title>

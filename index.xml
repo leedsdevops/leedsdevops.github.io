@@ -19,7 +19,7 @@
       
       <guid>http://www.leedsdevops.org.uk/post/2019-01-15-meetup-tuesday-24th-january-2019-at-the-odi-node-in-leeds/</guid>
       <description>Happy new year, we&amp;rsquo;ve our first meetup of 2019 at The ODI Node in Leeds on Thursday 24th January 2019:
- 6:45 - 7:15 : Doors open, have a chat, make some new devops friends 7:15 - 7:25 : Group updates/news/announcements 7:25 - 8:55 : TBC. 8:55 - 8:10 : Intermission 8:10 - 9:00 : The Unexpected (Infrastructure Management) Journey 9:00 - late : Decamp to the Wardrobe  We&amp;rsquo;re still dotting the i&amp;rsquo;s and crossing the t&amp;rsquo;s for our first speaker, but expect 30 mins filled with CI/CD, testing and the odd map!</description>
+ 6:45 - 7:15 : Doors open, have a chat, make some new devops friends 7:15 - 7:25 : Group updates/news/announcements 7:25 - 7:55 : Site Reliability Engineering: If it works for Google&amp;hellip; 8:55 - 8:10 : Intermission 8:10 - 9:00 : The Unexpected (Infrastructure Management) Journey 9:00 - late : Decamp to the Wardrobe  Our first talk is from Sam Smith who is a Reliability Engineer at Sky Betting and Gaming, his interests include graphs, data stores and not having to turn things off and on again at 02:00 whilst on call.</description>
     </item>
     
     <item>
@@ -28,7 +28,7 @@
       <pubDate>Tue, 01 Jan 2019 21:12:49 +0000</pubDate>
       
       <guid>http://www.leedsdevops.org.uk/about/</guid>
-      <description>What is a LeedsDevops ? LeedsDevops is a technology meetup in Leeds about DevOps (you can see we thought long and hard about the name). It&amp;rsquo;s an get together for a like-minded people to get together and enjoy presentations about DevOps. There are many interpretations of DevOps, but we see it as the combination of technology, people and organisations easing the practice of getting code into production (and keeping it running).</description>
+      <description>What is a LeedsDevops ? LeedsDevops is a technology meetup in Leeds about DevOps (you can see we thought long and hard about the name). It&amp;rsquo;s a get together for a like-minded people who want to exchange ideas and collaborate whilst enjoying presentations about DevOps. There are many interpretations of DevOps, but we see it as the combination of technology, people and organisations easing the practice of getting code into production (and keeping it running).</description>
     </item>
     
     <item>

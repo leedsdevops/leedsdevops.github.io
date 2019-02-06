@@ -69,7 +69,7 @@
     <item>
       <title>Chef</title>
       <link>http://www.leedsdevops.org.uk/tags/chef/</link>
-      <pubDate>Mon, 09 Jan 2017 19:38:36 +0000</pubDate>
+      <pubDate>Tue, 15 Jan 2019 09:32:28 +0000</pubDate>
       
       <guid>http://www.leedsdevops.org.uk/tags/chef/</guid>
       <description></description>
@@ -238,6 +238,15 @@
     </item>
     
     <item>
+      <title>Habitat</title>
+      <link>http://www.leedsdevops.org.uk/tags/habitat/</link>
+      <pubDate>Tue, 15 Jan 2019 09:32:28 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/habitat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hashicorp</title>
       <link>http://www.leedsdevops.org.uk/tags/hashicorp/</link>
       <pubDate>Mon, 19 Nov 2018 20:38:28 +0000</pubDate>
@@ -369,6 +378,15 @@
       <pubDate>Mon, 16 Oct 2017 19:06:23 +0000</pubDate>
       
       <guid>http://www.leedsdevops.org.uk/tags/mesosphere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microservices</title>
+      <link>http://www.leedsdevops.org.uk/tags/microservices/</link>
+      <pubDate>Tue, 15 Jan 2019 09:32:28 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/microservices/</guid>
       <description></description>
     </item>
     

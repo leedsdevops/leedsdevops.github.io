@@ -150,7 +150,7 @@
     <item>
       <title>Devops</title>
       <link>http://www.leedsdevops.org.uk/tags/devops/</link>
-      <pubDate>Tue, 15 Jan 2019 09:32:28 +0000</pubDate>
+      <pubDate>Sun, 03 Mar 2019 19:32:28 +0000</pubDate>
       
       <guid>http://www.leedsdevops.org.uk/tags/devops/</guid>
       <description></description>
@@ -312,7 +312,7 @@
     <item>
       <title>Leeds</title>
       <link>http://www.leedsdevops.org.uk/tags/leeds/</link>
-      <pubDate>Tue, 15 Jan 2019 09:32:28 +0000</pubDate>
+      <pubDate>Sun, 03 Mar 2019 19:32:28 +0000</pubDate>
       
       <guid>http://www.leedsdevops.org.uk/tags/leeds/</guid>
       <description></description>
@@ -445,6 +445,15 @@
     </item>
     
     <item>
+      <title>Operability</title>
+      <link>http://www.leedsdevops.org.uk/tags/operability/</link>
+      <pubDate>Sun, 03 Mar 2019 19:32:28 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/operability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Paas</title>
       <link>http://www.leedsdevops.org.uk/tags/paas/</link>
       <pubDate>Mon, 05 Sep 2016 11:40:51 +0000</pubDate>
@@ -531,6 +540,15 @@
       <pubDate>Wed, 04 May 2016 18:50:41 +0000</pubDate>
       
       <guid>http://www.leedsdevops.org.uk/tags/spine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sre</title>
+      <link>http://www.leedsdevops.org.uk/tags/sre/</link>
+      <pubDate>Sun, 03 Mar 2019 19:32:28 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/sre/</guid>
       <description></description>
     </item>
     

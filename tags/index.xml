@@ -85,6 +85,15 @@
     </item>
     
     <item>
+      <title>Ci/Cd</title>
+      <link>http://www.leedsdevops.org.uk/tags/ci-cd/</link>
+      <pubDate>Sun, 07 Apr 2019 21:00:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/ci-cd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cloud</title>
       <link>http://www.leedsdevops.org.uk/tags/cloud/</link>
       <pubDate>Tue, 01 May 2018 19:59:46 +0000</pubDate>
@@ -99,6 +108,15 @@
       <pubDate>Mon, 05 Sep 2016 11:40:51 +0000</pubDate>
       
       <guid>http://www.leedsdevops.org.uk/tags/cloud-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cncf</title>
+      <link>http://www.leedsdevops.org.uk/tags/cncf/</link>
+      <pubDate>Sun, 07 Apr 2019 21:00:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/cncf/</guid>
       <description></description>
     </item>
     
@@ -150,7 +168,7 @@
     <item>
       <title>Devops</title>
       <link>http://www.leedsdevops.org.uk/tags/devops/</link>
-      <pubDate>Sun, 03 Mar 2019 19:32:28 +0000</pubDate>
+      <pubDate>Sun, 07 Apr 2019 21:00:00 +0000</pubDate>
       
       <guid>http://www.leedsdevops.org.uk/tags/devops/</guid>
       <description></description>
@@ -162,6 +180,15 @@
       <pubDate>Tue, 09 Jun 2015 20:29:21 +0000</pubDate>
       
       <guid>http://www.leedsdevops.org.uk/tags/devopsdays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devsecops</title>
+      <link>http://www.leedsdevops.org.uk/tags/devsecops/</link>
+      <pubDate>Sun, 07 Apr 2019 21:00:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/devsecops/</guid>
       <description></description>
     </item>
     
@@ -312,7 +339,7 @@
     <item>
       <title>Leeds</title>
       <link>http://www.leedsdevops.org.uk/tags/leeds/</link>
-      <pubDate>Sun, 03 Mar 2019 19:32:28 +0000</pubDate>
+      <pubDate>Sun, 07 Apr 2019 21:00:00 +0000</pubDate>
       
       <guid>http://www.leedsdevops.org.uk/tags/leeds/</guid>
       <description></description>

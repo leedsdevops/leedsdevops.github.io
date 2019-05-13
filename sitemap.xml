@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.leedsdevops.org.uk/post/2019-05-13-tuesday-21st-may-2019-at-the-odi-node-in-leeds/</loc>
+    <lastmod>2019-05-13T18:32:28+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.leedsdevops.org.uk/post/2019-04-30-tuesday-30-april-2019-leeds-digital-festival-meetup/</loc>
     <lastmod>2019-04-07T21:00:00+00:00</lastmod>
   </url>
@@ -447,6 +452,12 @@
   </url>
   
   <url>
+    <loc>http://www.leedsdevops.org.uk/tags/chaos-engineering/</loc>
+    <lastmod>2019-05-13T18:32:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.leedsdevops.org.uk/tags/chef/</loc>
     <lastmod>2019-01-15T09:32:28+00:00</lastmod>
     <priority>0</priority>
@@ -520,7 +531,7 @@
   
   <url>
     <loc>http://www.leedsdevops.org.uk/tags/devops/</loc>
-    <lastmod>2019-04-07T21:00:00+00:00</lastmod>
+    <lastmod>2019-05-13T18:32:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -634,7 +645,7 @@
   
   <url>
     <loc>http://www.leedsdevops.org.uk/tags/leeds/</loc>
-    <lastmod>2019-04-07T21:00:00+00:00</lastmod>
+    <lastmod>2019-05-13T18:32:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -652,7 +663,7 @@
   
   <url>
     <loc>http://www.leedsdevops.org.uk/</loc>
-    <lastmod>2019-04-07T21:00:00+00:00</lastmod>
+    <lastmod>2019-05-13T18:32:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -676,7 +687,7 @@
   
   <url>
     <loc>http://www.leedsdevops.org.uk/categories/meetups/</loc>
-    <lastmod>2019-04-07T21:00:00+00:00</lastmod>
+    <lastmod>2019-05-13T18:32:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -766,7 +777,7 @@
   
   <url>
     <loc>http://www.leedsdevops.org.uk/post/</loc>
-    <lastmod>2019-04-07T21:00:00+00:00</lastmod>
+    <lastmod>2019-05-13T18:32:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -791,6 +802,12 @@
   <url>
     <loc>http://www.leedsdevops.org.uk/tags/sage/</loc>
     <lastmod>2013-12-14T21:33:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.leedsdevops.org.uk/tags/severless/</loc>
+    <lastmod>2019-05-13T18:32:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -887,6 +904,12 @@
   <url>
     <loc>http://www.leedsdevops.org.uk/tags/vsm/</loc>
     <lastmod>2017-11-12T14:45:06+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.leedsdevops.org.uk/tags/work-environments/</loc>
+    <lastmod>2019-05-13T18:32:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   

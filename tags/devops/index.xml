@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Code released under the Apache 2.0 license.</copyright>
-    <lastBuildDate>Sun, 07 Apr 2019 21:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2019 18:32:28 +0000</lastBuildDate>
     
 	<atom:link href="http://www.leedsdevops.org.uk/tags/devops/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Meetup - Tuesday 21st May 2019 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2019-05-13-tuesday-21st-may-2019-at-the-odi-node-in-leeds/</link>
+      <pubDate>Mon, 13 May 2019 18:32:28 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2019-05-13-tuesday-21st-may-2019-at-the-odi-node-in-leeds/</guid>
+      <description>Spring is well and truly here and on Tuesday 21st May 2019 so are we at the ODI Node in Leeds for fresh devops thoughts.
+ 6:45 - 7:15 : Doors open, have a chat, make some new devops friends 7:15 - 7:25 : Group updates/news/announcements 7:25 - 8:05 : Non Toxic Work Environments 8:05 - 8:20 : Intermission 8:20 - 9:00 : Serverless Chaos 9:00 - late : Social  We start this meetup with a different knid of talk, as we know a large part of devops is about creating a culture of trust, callaboration and empathy with our fellow colleagues.</description>
+    </item>
     
     <item>
       <title>Meetup - Tuesday 30th April 2019 at The ODI Node in Leeds</title>

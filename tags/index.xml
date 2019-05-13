@@ -67,6 +67,15 @@
     </item>
     
     <item>
+      <title>Chaos Engineering</title>
+      <link>http://www.leedsdevops.org.uk/tags/chaos-engineering/</link>
+      <pubDate>Mon, 13 May 2019 18:32:28 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/chaos-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Chef</title>
       <link>http://www.leedsdevops.org.uk/tags/chef/</link>
       <pubDate>Tue, 15 Jan 2019 09:32:28 +0000</pubDate>
@@ -168,7 +177,7 @@
     <item>
       <title>Devops</title>
       <link>http://www.leedsdevops.org.uk/tags/devops/</link>
-      <pubDate>Sun, 07 Apr 2019 21:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 May 2019 18:32:28 +0000</pubDate>
       
       <guid>http://www.leedsdevops.org.uk/tags/devops/</guid>
       <description></description>
@@ -339,7 +348,7 @@
     <item>
       <title>Leeds</title>
       <link>http://www.leedsdevops.org.uk/tags/leeds/</link>
-      <pubDate>Sun, 07 Apr 2019 21:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 May 2019 18:32:28 +0000</pubDate>
       
       <guid>http://www.leedsdevops.org.uk/tags/leeds/</guid>
       <description></description>
@@ -535,6 +544,15 @@
     </item>
     
     <item>
+      <title>Severless</title>
+      <link>http://www.leedsdevops.org.uk/tags/severless/</link>
+      <pubDate>Mon, 13 May 2019 18:32:28 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/severless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Skills</title>
       <link>http://www.leedsdevops.org.uk/tags/skills/</link>
       <pubDate>Mon, 23 Sep 2013 21:04:00 +0000</pubDate>
@@ -639,6 +657,15 @@
       <pubDate>Sun, 12 Nov 2017 14:45:06 +0000</pubDate>
       
       <guid>http://www.leedsdevops.org.uk/tags/vsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work Environments</title>
+      <link>http://www.leedsdevops.org.uk/tags/work-environments/</link>
+      <pubDate>Mon, 13 May 2019 18:32:28 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/work-environments/</guid>
       <description></description>
     </item>
     

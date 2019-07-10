@@ -67,6 +67,15 @@
     </item>
     
     <item>
+      <title>Calms</title>
+      <link>http://www.leedsdevops.org.uk/tags/calms/</link>
+      <pubDate>Wed, 10 Jul 2019 20:11:28 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/calms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Chaos Engineering</title>
       <link>http://www.leedsdevops.org.uk/tags/chaos-engineering/</link>
       <pubDate>Mon, 13 May 2019 18:32:28 +0000</pubDate>
@@ -159,7 +168,7 @@
     <item>
       <title>Culture</title>
       <link>http://www.leedsdevops.org.uk/tags/culture/</link>
-      <pubDate>Mon, 23 Sep 2013 21:04:00 +0000</pubDate>
+      <pubDate>Wed, 10 Jul 2019 20:11:28 +0000</pubDate>
       
       <guid>http://www.leedsdevops.org.uk/tags/culture/</guid>
       <description></description>
@@ -177,7 +186,7 @@
     <item>
       <title>Devops</title>
       <link>http://www.leedsdevops.org.uk/tags/devops/</link>
-      <pubDate>Mon, 13 May 2019 18:32:28 +0000</pubDate>
+      <pubDate>Wed, 10 Jul 2019 20:11:28 +0000</pubDate>
       
       <guid>http://www.leedsdevops.org.uk/tags/devops/</guid>
       <description></description>
@@ -229,6 +238,15 @@
     </item>
     
     <item>
+      <title>Ecs</title>
+      <link>http://www.leedsdevops.org.uk/tags/ecs/</link>
+      <pubDate>Wed, 10 Jul 2019 20:11:28 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/ecs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Elasticsearch</title>
       <link>http://www.leedsdevops.org.uk/tags/elasticsearch/</link>
       <pubDate>Mon, 29 Sep 2014 19:11:00 +0000</pubDate>
@@ -243,6 +261,15 @@
       <pubDate>Sun, 04 Oct 2015 21:29:53 +0000</pubDate>
       
       <guid>http://www.leedsdevops.org.uk/tags/event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fargate</title>
+      <link>http://www.leedsdevops.org.uk/tags/fargate/</link>
+      <pubDate>Wed, 10 Jul 2019 20:11:28 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/fargate/</guid>
       <description></description>
     </item>
     
@@ -348,7 +375,7 @@
     <item>
       <title>Leeds</title>
       <link>http://www.leedsdevops.org.uk/tags/leeds/</link>
-      <pubDate>Mon, 13 May 2019 18:32:28 +0000</pubDate>
+      <pubDate>Wed, 10 Jul 2019 20:11:28 +0000</pubDate>
       
       <guid>http://www.leedsdevops.org.uk/tags/leeds/</guid>
       <description></description>

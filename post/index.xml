@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Code released under the Apache 2.0 license.</copyright>
-    <lastBuildDate>Mon, 13 May 2019 18:32:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2019 20:11:28 +0000</lastBuildDate>
     
 	<atom:link href="http://www.leedsdevops.org.uk/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Meetup - Tuesday 30th July 2019 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2019-07-10-tuesday-30th-july-2019-at-the-odi-node-in-leeds/</link>
+      <pubDate>Wed, 10 Jul 2019 20:11:28 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2019-07-10-tuesday-30th-july-2019-at-the-odi-node-in-leeds/</guid>
+      <description>Summer is upon us, what better way to spend a sunny summers evening than a does of DevOps chatter, on Tuesday 30th July 2019 we are at the ODI Node in Leeds for thought provoking devops ideas.
+ 6:45 - 7:15 : Doors open, have a chat, make some new devops friends 7:15 - 7:25 : Group updates/news/announcements 7:25 - 8:05 : Paradigm Shift Left 8:05 - 8:20 : Intermission 8:20 - 9:00 : ECS, Fargate &amp;amp; the Power of Data MVT 9:00 - late : Social  Our first speaker of the evening is James Scanlan a tech lead in NHS Digital&amp;rsquo;s Digital Delivery Centre.</description>
+    </item>
     
     <item>
       <title>Meetup - Tuesday 21st May 2019 at The ODI Node in Leeds</title>

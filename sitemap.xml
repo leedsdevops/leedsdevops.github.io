@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.leedsdevops.org.uk/post/2019-07-10-tuesday-30th-july-2019-at-the-odi-node-in-leeds/</loc>
+    <lastmod>2019-07-10T20:11:28+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.leedsdevops.org.uk/post/2019-05-13-tuesday-21st-may-2019-at-the-odi-node-in-leeds/</loc>
     <lastmod>2019-05-13T18:32:28+00:00</lastmod>
   </url>
@@ -446,6 +451,12 @@
   </url>
   
   <url>
+    <loc>http://www.leedsdevops.org.uk/tags/calms/</loc>
+    <lastmod>2019-07-10T20:11:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.leedsdevops.org.uk/categories/</loc>
     <lastmod>2013-09-23T21:04:00+00:00</lastmod>
     <priority>0</priority>
@@ -519,7 +530,7 @@
   
   <url>
     <loc>http://www.leedsdevops.org.uk/tags/culture/</loc>
-    <lastmod>2013-09-23T21:04:00+00:00</lastmod>
+    <lastmod>2019-07-10T20:11:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -531,7 +542,7 @@
   
   <url>
     <loc>http://www.leedsdevops.org.uk/tags/devops/</loc>
-    <lastmod>2019-05-13T18:32:28+00:00</lastmod>
+    <lastmod>2019-07-10T20:11:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -566,6 +577,12 @@
   </url>
   
   <url>
+    <loc>http://www.leedsdevops.org.uk/tags/ecs/</loc>
+    <lastmod>2019-07-10T20:11:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.leedsdevops.org.uk/tags/elasticsearch/</loc>
     <lastmod>2014-09-29T19:11:00+00:00</lastmod>
     <priority>0</priority>
@@ -574,6 +591,12 @@
   <url>
     <loc>http://www.leedsdevops.org.uk/tags/event/</loc>
     <lastmod>2015-10-04T21:29:53+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.leedsdevops.org.uk/tags/fargate/</loc>
+    <lastmod>2019-07-10T20:11:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -645,7 +668,7 @@
   
   <url>
     <loc>http://www.leedsdevops.org.uk/tags/leeds/</loc>
-    <lastmod>2019-05-13T18:32:28+00:00</lastmod>
+    <lastmod>2019-07-10T20:11:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -663,7 +686,7 @@
   
   <url>
     <loc>http://www.leedsdevops.org.uk/</loc>
-    <lastmod>2019-05-13T18:32:28+00:00</lastmod>
+    <lastmod>2019-07-10T20:11:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -687,7 +710,7 @@
   
   <url>
     <loc>http://www.leedsdevops.org.uk/categories/meetups/</loc>
-    <lastmod>2019-05-13T18:32:28+00:00</lastmod>
+    <lastmod>2019-07-10T20:11:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -777,7 +800,7 @@
   
   <url>
     <loc>http://www.leedsdevops.org.uk/post/</loc>
-    <lastmod>2019-05-13T18:32:28+00:00</lastmod>
+    <lastmod>2019-07-10T20:11:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   

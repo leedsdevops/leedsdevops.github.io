@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.leedsdevops.org.uk/post/2019-09-08-monday-16th-september-2019-at-the-odi-node-in-leeds/</loc>
+    <lastmod>2019-09-08T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.leedsdevops.org.uk/post/2019-07-10-tuesday-30th-july-2019-at-the-odi-node-in-leeds/</loc>
     <lastmod>2019-07-10T20:11:28+00:00</lastmod>
   </url>
@@ -488,7 +493,7 @@
   
   <url>
     <loc>http://www.leedsdevops.org.uk/tags/cloud/</loc>
-    <lastmod>2018-05-01T19:59:46+00:00</lastmod>
+    <lastmod>2019-09-08T18:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -542,7 +547,7 @@
   
   <url>
     <loc>http://www.leedsdevops.org.uk/tags/devops/</loc>
-    <lastmod>2019-07-10T20:11:28+00:00</lastmod>
+    <lastmod>2019-09-08T18:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -668,7 +673,7 @@
   
   <url>
     <loc>http://www.leedsdevops.org.uk/tags/leeds/</loc>
-    <lastmod>2019-07-10T20:11:28+00:00</lastmod>
+    <lastmod>2019-09-08T18:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -686,7 +691,7 @@
   
   <url>
     <loc>http://www.leedsdevops.org.uk/</loc>
-    <lastmod>2019-07-10T20:11:28+00:00</lastmod>
+    <lastmod>2019-09-08T18:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -710,7 +715,7 @@
   
   <url>
     <loc>http://www.leedsdevops.org.uk/categories/meetups/</loc>
-    <lastmod>2019-07-10T20:11:28+00:00</lastmod>
+    <lastmod>2019-09-08T18:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -723,6 +728,12 @@
   <url>
     <loc>http://www.leedsdevops.org.uk/tags/mesosphere/</loc>
     <lastmod>2017-10-16T19:06:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.leedsdevops.org.uk/tags/metrics/</loc>
+    <lastmod>2019-09-08T18:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -740,7 +751,7 @@
   
   <url>
     <loc>http://www.leedsdevops.org.uk/tags/monitoring/</loc>
-    <lastmod>2017-06-18T19:13:14+00:00</lastmod>
+    <lastmod>2019-09-08T18:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -800,7 +811,7 @@
   
   <url>
     <loc>http://www.leedsdevops.org.uk/post/</loc>
-    <lastmod>2019-07-10T20:11:28+00:00</lastmod>
+    <lastmod>2019-09-08T18:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -865,6 +876,12 @@
   </url>
   
   <url>
+    <loc>http://www.leedsdevops.org.uk/tags/spotify/</loc>
+    <lastmod>2019-09-08T18:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.leedsdevops.org.uk/tags/sre/</loc>
     <lastmod>2019-03-03T19:32:28+00:00</lastmod>
     <priority>0</priority>
@@ -879,6 +896,12 @@
   <url>
     <loc>http://www.leedsdevops.org.uk/tags/talks/</loc>
     <lastmod>2014-03-15T12:14:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.leedsdevops.org.uk/tags/team-topologies/</loc>
+    <lastmod>2019-09-08T18:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

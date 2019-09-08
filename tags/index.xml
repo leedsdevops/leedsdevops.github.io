@@ -114,7 +114,7 @@
     <item>
       <title>Cloud</title>
       <link>http://www.leedsdevops.org.uk/tags/cloud/</link>
-      <pubDate>Tue, 01 May 2018 19:59:46 +0000</pubDate>
+      <pubDate>Sun, 08 Sep 2019 18:00:00 +0000</pubDate>
       
       <guid>http://www.leedsdevops.org.uk/tags/cloud/</guid>
       <description></description>
@@ -186,7 +186,7 @@
     <item>
       <title>Devops</title>
       <link>http://www.leedsdevops.org.uk/tags/devops/</link>
-      <pubDate>Wed, 10 Jul 2019 20:11:28 +0000</pubDate>
+      <pubDate>Sun, 08 Sep 2019 18:00:00 +0000</pubDate>
       
       <guid>http://www.leedsdevops.org.uk/tags/devops/</guid>
       <description></description>
@@ -375,7 +375,7 @@
     <item>
       <title>Leeds</title>
       <link>http://www.leedsdevops.org.uk/tags/leeds/</link>
-      <pubDate>Wed, 10 Jul 2019 20:11:28 +0000</pubDate>
+      <pubDate>Sun, 08 Sep 2019 18:00:00 +0000</pubDate>
       
       <guid>http://www.leedsdevops.org.uk/tags/leeds/</guid>
       <description></description>
@@ -445,6 +445,15 @@
     </item>
     
     <item>
+      <title>Metrics</title>
+      <link>http://www.leedsdevops.org.uk/tags/metrics/</link>
+      <pubDate>Sun, 08 Sep 2019 18:00:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/metrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Microservices</title>
       <link>http://www.leedsdevops.org.uk/tags/microservices/</link>
       <pubDate>Tue, 15 Jan 2019 09:32:28 +0000</pubDate>
@@ -465,7 +474,7 @@
     <item>
       <title>Monitoring</title>
       <link>http://www.leedsdevops.org.uk/tags/monitoring/</link>
-      <pubDate>Sun, 18 Jun 2017 19:13:14 +0000</pubDate>
+      <pubDate>Sun, 08 Sep 2019 18:00:00 +0000</pubDate>
       
       <guid>http://www.leedsdevops.org.uk/tags/monitoring/</guid>
       <description></description>
@@ -616,6 +625,15 @@
     </item>
     
     <item>
+      <title>Spotify</title>
+      <link>http://www.leedsdevops.org.uk/tags/spotify/</link>
+      <pubDate>Sun, 08 Sep 2019 18:00:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/spotify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sre</title>
       <link>http://www.leedsdevops.org.uk/tags/sre/</link>
       <pubDate>Sun, 03 Mar 2019 19:32:28 +0000</pubDate>
@@ -630,6 +648,15 @@
       <pubDate>Sat, 15 Mar 2014 12:14:19 +0000</pubDate>
       
       <guid>http://www.leedsdevops.org.uk/tags/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team Topologies</title>
+      <link>http://www.leedsdevops.org.uk/tags/team-topologies/</link>
+      <pubDate>Sun, 08 Sep 2019 18:00:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/team-topologies/</guid>
       <description></description>
     </item>
     

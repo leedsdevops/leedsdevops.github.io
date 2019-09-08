@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Code released under the Apache 2.0 license.</copyright>
-    <lastBuildDate>Wed, 10 Jul 2019 20:11:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2019 18:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.leedsdevops.org.uk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Meetup - Monday 16th Septemeber 2019 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2019-09-08-monday-16th-september-2019-at-the-odi-node-in-leeds/</link>
+      <pubDate>Sun, 08 Sep 2019 18:00:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2019-09-08-monday-16th-september-2019-at-the-odi-node-in-leeds/</guid>
+      <description>As the nights draw closer and autumn arrives it can only mean one thing, it&amp;rsquo;s time for an evening of DevOps frivolity, on Monday 16th September 2019 we are at the ODI Node in Leeds for an evening of devops wisdom.
+ 6:45 - 7:15 : Doors open, have a chat, make some new devops friends 7:15 - 7:25 : Group updates/news/announcements 7:25 - 8:05 : DevOps and Monitoring/Metrics 8:05 - 8:20 : Intermission 8:20 - 9:00 : Beyond the Spotify Model - Team Topologies 9:00 - late : Social  Our first speaker of the evening is James Healey, from Carbon DMP, talking about DevOps and Monitoring/Metrics.</description>
+    </item>
     
     <item>
       <title>Meetup - Tuesday 30th July 2019 at The ODI Node in Leeds</title>

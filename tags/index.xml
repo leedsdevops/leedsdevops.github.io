@@ -114,7 +114,7 @@
     <item>
       <title>Cloud</title>
       <link>http://www.leedsdevops.org.uk/tags/cloud/</link>
-      <pubDate>Sun, 08 Sep 2019 18:00:00 +0000</pubDate>
+      <pubDate>Sun, 13 Oct 2019 18:00:00 +0000</pubDate>
       
       <guid>http://www.leedsdevops.org.uk/tags/cloud/</guid>
       <description></description>
@@ -186,7 +186,7 @@
     <item>
       <title>Devops</title>
       <link>http://www.leedsdevops.org.uk/tags/devops/</link>
-      <pubDate>Sun, 08 Sep 2019 18:00:00 +0000</pubDate>
+      <pubDate>Sun, 13 Oct 2019 18:00:00 +0000</pubDate>
       
       <guid>http://www.leedsdevops.org.uk/tags/devops/</guid>
       <description></description>
@@ -375,7 +375,7 @@
     <item>
       <title>Leeds</title>
       <link>http://www.leedsdevops.org.uk/tags/leeds/</link>
-      <pubDate>Sun, 08 Sep 2019 18:00:00 +0000</pubDate>
+      <pubDate>Sun, 13 Oct 2019 18:00:00 +0000</pubDate>
       
       <guid>http://www.leedsdevops.org.uk/tags/leeds/</guid>
       <description></description>
@@ -468,6 +468,15 @@
       <pubDate>Mon, 31 Oct 2016 20:36:46 +0000</pubDate>
       
       <guid>http://www.leedsdevops.org.uk/tags/microsoft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Migration</title>
+      <link>http://www.leedsdevops.org.uk/tags/migration/</link>
+      <pubDate>Sun, 13 Oct 2019 18:00:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/migration/</guid>
       <description></description>
     </item>
     

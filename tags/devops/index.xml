@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Code released under the Apache 2.0 license.</copyright>
-    <lastBuildDate>Sun, 08 Sep 2019 18:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2019 18:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.leedsdevops.org.uk/tags/devops/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Meetup - Thursday 24th October 2019 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2019-10-13-thursday-24th-october-meetup/</link>
+      <pubDate>Sun, 13 Oct 2019 18:00:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2019-10-13-thursday-24th-october-meetup/</guid>
+      <description>We&amp;rsquo;re mixing things up again and holding the meetup on Thursday 24th Octoberat the ODI Node in Leeds for an evening of devops thoughts and experience sharing.
+ 6:45 - 7:15 : Doors open, have a chat, make some new devops friends 7:15 - 7:25 : Group updates/news/announcements 7:25 - 8:05 : TBC 8:05 - 8:20 : Intermission 8:20 - 9:00 : The Dawning of a New Era - Auto Trader 9:00 - late : Social  We haven&amp;rsquo;t quite got things confirmed for our first speaker at the time of releasing the tickets, but look forward to some industry leading devops discussion.</description>
+    </item>
     
     <item>
       <title>Meetup - Monday 16th Septemeber 2019 at The ODI Node in Leeds</title>

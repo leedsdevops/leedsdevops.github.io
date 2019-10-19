@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Code released under the Apache 2.0 license.</copyright>
-    <lastBuildDate>Sun, 14 Oct 2018 18:31:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2019 18:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.leedsdevops.org.uk/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Meetup - Thursday 24th October 2019 at The ODI Node in Leeds</title>
+      <link>http://www.leedsdevops.org.uk/post/2019-10-13-thursday-24th-october-meetup/</link>
+      <pubDate>Sun, 13 Oct 2019 18:00:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/post/2019-10-13-thursday-24th-october-meetup/</guid>
+      <description>We&amp;rsquo;re mixing things up again and holding the meetup on Thursday 24th Octoberat the ODI Node in Leeds for an evening of devops thoughts and experience sharing.
+ 6:45 - 7:15 : Doors open, have a chat, make some new devops friends 7:15 - 7:25 : Group updates/news/announcements 7:25 - 8:05 : From v1alpha1 to v1 - Kubernetes Operators 8:05 - 8:20 : Intermission 8:20 - 9:00 : The Dawning of a New Era - Auto Trader 9:00 - late : Social  Our first speaker of the evening is Joshua Van Leeuwen from Jetstack, he&amp;rsquo;ll be giving a technical talk on kubernetes operators entilted &amp;ldquo;From v1alpha1 to v1 - how an operator turns 1.</description>
+    </item>
     
     <item>
       <title>Meetup - Tuesday 23rd October 2018 at The ODI Node in Leeds</title>

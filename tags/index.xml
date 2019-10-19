@@ -366,7 +366,7 @@
     <item>
       <title>Kubernetes</title>
       <link>http://www.leedsdevops.org.uk/tags/kubernetes/</link>
-      <pubDate>Sun, 14 Oct 2018 18:31:32 +0000</pubDate>
+      <pubDate>Sun, 13 Oct 2019 18:00:00 +0000</pubDate>
       
       <guid>http://www.leedsdevops.org.uk/tags/kubernetes/</guid>
       <description></description>
@@ -531,6 +531,15 @@
       <pubDate>Sun, 03 Mar 2019 19:32:28 +0000</pubDate>
       
       <guid>http://www.leedsdevops.org.uk/tags/operability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operators</title>
+      <link>http://www.leedsdevops.org.uk/tags/operators/</link>
+      <pubDate>Sun, 13 Oct 2019 18:00:00 +0000</pubDate>
+      
+      <guid>http://www.leedsdevops.org.uk/tags/operators/</guid>
       <description></description>
     </item>
     

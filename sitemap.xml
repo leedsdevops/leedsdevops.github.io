@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.leedsdevops.org.uk/post/2019-11-04-wednesday-20th-november-meetup/</loc>
+    <lastmod>2019-11-04T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.leedsdevops.org.uk/post/2019-10-13-thursday-24th-october-meetup/</loc>
     <lastmod>2019-10-13T18:00:00+00:00</lastmod>
   </url>
@@ -515,13 +520,13 @@
   </url>
   
   <url>
-    <loc>http://www.leedsdevops.org.uk/categories/code-of-conduct/</loc>
+    <loc>http://www.leedsdevops.org.uk/tags/code-of-conduct/</loc>
     <lastmod>2017-09-09T09:54:07+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.leedsdevops.org.uk/tags/code-of-conduct/</loc>
+    <loc>http://www.leedsdevops.org.uk/categories/code-of-conduct/</loc>
     <lastmod>2017-09-09T09:54:07+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -551,8 +556,14 @@
   </url>
   
   <url>
+    <loc>http://www.leedsdevops.org.uk/tags/decade/</loc>
+    <lastmod>2019-11-04T18:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.leedsdevops.org.uk/tags/devops/</loc>
-    <lastmod>2019-10-13T18:00:00+00:00</lastmod>
+    <lastmod>2019-11-04T18:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -678,7 +689,7 @@
   
   <url>
     <loc>http://www.leedsdevops.org.uk/tags/leeds/</loc>
-    <lastmod>2019-10-13T18:00:00+00:00</lastmod>
+    <lastmod>2019-11-04T18:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -696,7 +707,7 @@
   
   <url>
     <loc>http://www.leedsdevops.org.uk/</loc>
-    <lastmod>2019-10-13T18:00:00+00:00</lastmod>
+    <lastmod>2019-11-04T18:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -720,7 +731,7 @@
   
   <url>
     <loc>http://www.leedsdevops.org.uk/categories/meetups/</loc>
-    <lastmod>2019-10-13T18:00:00+00:00</lastmod>
+    <lastmod>2019-11-04T18:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -767,13 +778,13 @@
   </url>
   
   <url>
-    <loc>http://www.leedsdevops.org.uk/categories/nagios/</loc>
+    <loc>http://www.leedsdevops.org.uk/tags/nagios/</loc>
     <lastmod>2015-06-25T11:15:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.leedsdevops.org.uk/tags/nagios/</loc>
+    <loc>http://www.leedsdevops.org.uk/categories/nagios/</loc>
     <lastmod>2015-06-25T11:15:13+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -828,7 +839,7 @@
   
   <url>
     <loc>http://www.leedsdevops.org.uk/post/</loc>
-    <lastmod>2019-10-13T18:00:00+00:00</lastmod>
+    <lastmod>2019-11-04T18:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
